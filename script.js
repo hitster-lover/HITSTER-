@@ -4,25 +4,12 @@
 // Pega aquí tu lista de 1000 canciones convertida a formato JSON.
 // Por ahora, usamos un ejemplo corto.
 const canciones = [
-    {
-        "N�mero;T�tulo;Artista;A�o;Enlace": "1;La Chica de Ayer;Nacho Pop;1980;https://www.youtube.com/watch?v=2pRmTJjBr6c&ab_channel=joseluis8008"
-    },
-    {
-        "N�mero;T�tulo;Artista;A�o;Enlace": "2;Devu�lveme a mi chica;Hombres G;1985;https://www.youtube.com/watch?v=sHQ9BdvZPco&ab_channel=HombresG-Topic"
-    },
-    {
-        "N�mero;T�tulo;Artista;A�o;Enlace": "3;A qui�n le importa;Alaska y Dinarama;1986;https://www.youtube.com/watch?v=XX_hWpPnd3I&ab_channel=OficialFangoria"
-    }
-]
-
-
-//[
-//  { "numero": 1, "titulo": "La Chica de Ayer", "artista": "Nacha Pop", "año": 1980, "enlace": "https://www.youtube.com/watch?v=k3JOjin-jWw" },
-//  { "numero": 2, "titulo": "Devuélveme a mi chica", "artista": "Hombres G", "año": 1985, "enlace": "https://www.youtube.com/watch?v=L5V9vI_z_ok" },
-//  { "numero": 3, "titulo": "A quién le importa", "artista": "Alaska y Dinarama", "año": 1986, "enlace": "https://www.youtube.com/watch?v=g2p6N-roH48" },
-//  { "numero": 4, "titulo": "Corazón partío", "artista": "Alejandro Sanz", "año": 1997, "enlace": "https://www.youtube.com/watch?v=sS1z2-gS2VA" },
-//  // ... ¡AQUÍ IRÍAN TUS OTRAS 996 CANCIONES!
-//];
+  { "numero": 1, "titulo": "La Chica de Ayer", "artista": "Nacha Pop", "año": 1980, "enlace": "https://www.youtube.com/watch?v=k3JOjin-jWw" },
+  { "numero": 2, "titulo": "Devuélveme a mi chica", "artista": "Hombres G", "año": 1985, "enlace": "https://www.youtube.com/watch?v=L5V9vI_z_ok" },
+  { "numero": 3, "titulo": "A quién le importa", "artista": "Alaska y Dinarama", "año": 1986, "enlace": "https://www.youtube.com/watch?v=g2p6N-roH48" },
+  { "numero": 4, "titulo": "Corazón partío", "artista": "Alejandro Sanz", "año": 1997, "enlace": "https://www.youtube.com/watch?v=sS1z2-gS2VA" },
+  // ... ¡AQUÍ IRÍAN TUS OTRAS 996 CANCIONES!
+];
 
 // 2. LA LÓGICA DE BÚSQUEDA
 // Esta función se ejecuta cuando el DOM está listo
