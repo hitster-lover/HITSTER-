@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <p><strong>Artista:</strong> ${cancionEncontrada.artista}</p>
                 <p><strong>Año:</strong> ${cancionEncontrada.año}</p>
                 <a href="${cancionEncontrada.enlace}" target="_blank" class="boton-reproducir">
-                    ▶️ Escuchar en YouTube
+                    ▶️ Escuchar en Spotify
                 </a>
             `;
         } else {
