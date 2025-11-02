@@ -4,7 +4,7 @@
 // Pega aquí tu lista de 1000 canciones convertida a formato JSON.
 // Por ahora, usamos un ejemplo corto.
 const canciones = [
-  { "numero": 1, "titulo": "La Chica de Ayer", "artista": "Nacha Pop", "año": 1980, "enlace": "https://open.spotify.com/intl-es/track/45VlOHY7pEd6IC3plYeKZ3?si=198ad46f0a864bd8" },
+  { "numero": 1, "titulo": "La Chica de Ayer", "artista": "Nacha Pop", "año": 1980, "enlace": "https://open.spotify.com/intl-es/track/4B6ko7lt1sUtyFzBDF4yfK" },
   { "numero": 2, "titulo": "Devuélveme a mi chica", "artista": "Hombres G", "año": 1985, "enlace": "https://www.youtube.com/watch?v=L5V9vI_z_ok" },
   { "numero": 3, "titulo": "A quién le importa", "artista": "Alaska y Dinarama", "año": 1986, "enlace": "https://www.youtube.com/watch?v=g2p6N-roH48" },
   { "numero": 4, "titulo": "Corazón partío", "artista": "Alejandro Sanz", "año": 1997, "enlace": "https://www.youtube.com/watch?v=sS1z2-gS2VA" },
