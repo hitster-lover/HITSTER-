@@ -4114,7 +4114,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Validamos que el número sea válido
         if (isNaN(numeroBuscado) || numeroBuscado < 1 || numeroBuscado > 1000) {
-            divResultado.innerHTML = `<p class="error">Por favor, introduce un número entre 1 y 1000.</p>`;
+            divResultado.innerHTML = `<p class="error">Por favor, introduce el número de tu tarjeta.</p>`;
             return;
         }
 
