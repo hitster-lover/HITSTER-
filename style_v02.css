@@ -1,10 +1,9 @@
-/* Opción 1: Elegante y Profesional */
-
+/* style.css */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #103754; /* Fondo azul oscuro, muy elegante */
+    background-color: #278bc5;
     color: #333;
     display: flex;
     justify-content: center;
@@ -24,7 +23,7 @@ body {
 }
 
 h1 {
-    color: #103754; /* Título principal a juego con el fondo */
+    color: #ce1515;
 }
 
 .search-box {
@@ -44,7 +43,7 @@ h1 {
 #boton-buscar {
     padding: 10px 20px;
     border: none;
-    background-color: #F17961; /* Botón principal en coral, muy llamativo */
+    background-color: #cf1515;
     color: white;
     border-radius: 5px;
     cursor: pointer;
@@ -53,7 +52,7 @@ h1 {
 }
 
 #boton-buscar:hover {
-    background-color: #d96a54; /* Un coral un poco más oscuro */
+    background-color: #303f9f;
 }
 
 #resultado {
@@ -64,27 +63,28 @@ h1 {
 
 #resultado h2 {
     margin-top: 0;
-    color: #103754; /* El título de la canción en azul oscuro */
+    color: #c2185b;
 }
 
+/* ESTE ES EL CÓDIGO NUEVO Y MEJORADO */
 .boton-reproducir {
     display: inline-block;
     margin-top: 15px;
     padding: 12px 25px;
-    background-color: #97D3CB; /* El botón de reproducir en turquesa */
-    color: #103754; /* Texto oscuro para que sea legible sobre el turquesa */
+    background-color: #1DB954; /* <-- ¡El verde de Spotify! */
+    color: white;
     text-decoration: none;
     border-radius: 25px;
     font-weight: bold;
-    transition: transform 0.2s, background-color 0.3s;
+    transition: transform 0.2s, background-color 0.3s; /* Animación suave */
 }
 
 .boton-reproducir:hover {
     transform: scale(1.05);
-    background-color: #82c4b9; /* Un turquesa un poco más oscuro */
+    background-color: #1AA34A; /* Un verde un poco más oscuro al pasar el ratón */
 }
 
 .error {
-    color: #F17961; /* El mensaje de error en coral para que destaque */
+    color: #d32f2f;
     font-weight: bold;
 }
