@@ -4103,33 +4103,48 @@ const canciones = [
 
 // 2. LA LÓGICA DE BÚSQUEDA
 // Esta función se ejecuta cuando el DOM está listo
-const buscarCancion = () => {
-    const numeroBuscado = parseInt(inputNumero.value);
+document.addEventListener('DOMContentLoaded', () => {
+    const inputNumero = document.getElementById('input-numero');
+    const botonBuscar = document.getElementById('boton-buscar');
+    const divResultado = document.getElementById('resultado');
 
-    // Validate that the number is valid
-    if (isNaN(numeroBuscado) || numeroBuscado < 1 || numeroBuscado > 1000) {
-        divResultado.innerHTML = `<p class="error">Por favor, introduce el número de tu canción.</p>`;
-        return;
-    }
+    // Función que busca y muestra la canción
+    const buscarCancion = () => {
+        const numeroBuscado = parseInt(inputNumero.value);
 
-    // Search for the song in our array.
-    // **THE FIX IS HERE:** Use the new capitalized keys with accents.
-    const cancionEncontrada = canciones.find(c => c.Número === numeroBuscado);
+        // Validamos que el número sea válido
+        if (isNaN(numeroBuscado) || numeroBuscado < 1 || numeroBuscado > 1000) {
+            divResultado.innerHTML = `<p class="error">Por favor, introduce un número entre 1 y 1000.</p>`;
+            return;
+        }
 
-    // Display the result
-    if (cancionEncontrada) {
-        // **AND THE FIX IS HERE TOO:** Use the new keys to display the data.
-        divResultado.innerHTML = `
-            <h2>#${cancionEncontrada.Número}: ${cancionEncontrada.Título}</h2>
-            <p><strong>Artista:</strong> ${cancionEncontrada.Artista}</p>
-            <p><strong>Año:</strong> ${cancionEncontrada.Año}</p>
-            <a href="${cancionEncontrada.Enlace}" target="_blank" class="boton-reproducir">
-                ▶️ Escuchar en Spotify
-            </a>
-        `;
-    } else {
-        // This would only happen if numbers are missing in your list
-        divResultado.innerHTML = `<p class="error">Canción no encontrada. ¡Qué raro!</p>`;
-    }
-};
- 
+        // Buscamos la canción en nuestro array.
+        // Como el array empieza en 0, restamos 1 al número.
+        const cancionEncontrada = canciones.find(c => c.Número === numeroBuscado);
+
+        // Mostramos el resultado
+        if (cancionEncontrada) {
+            divResultado.innerHTML = `
+                <h2>#${cancionEncontrada.Número}: ${cancionEncontrada.Título}</h2>
+                <p><strong>Artista:</strong> ${cancionEncontrada.Artista}</p>
+                <p><strong>Año:</strong> ${cancionEncontrada.Año}</p>
+                <a href="${cancionEncontrada.Enlace}" target="_blank" class="boton-reproducir">
+                    ▶️ Escuchar en Spotify
+                </a>
+            `;
+        } else {
+            // Esto solo pasaría si faltan números en tu lista
+            divResultado.innerHTML = `<p class="error">Canción no encontrada. ¡Qué raro!</p>`;
+        }
+    };
+
+    // Asignamos la función al botón
+    botonBuscar.addEventListener('click', buscarCancion);
+    
+    // Opcional: permitir buscar al presionar "Enter" en el campo de número
+    inputNumero.addEventListener('keyup', (event) => {
+        if (event.key === 'Enter') {
+            buscarCancion();
+        }
+    });
+});
