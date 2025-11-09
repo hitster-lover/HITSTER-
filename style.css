@@ -88,3 +88,29 @@ h1 {
     color: #F17961; /* Mensaje de error en coral */
     font-weight: bold;
 }
+
+
+/* Contenedor para la información secreta, para que sea clickeable */
+.info-secreta {
+    cursor: pointer;
+    border-radius: 8px;
+    padding: 10px 0;
+    transition: background-color 0.3s;
+}
+
+.info-secreta:hover {
+    background-color: #f7f7f7; /* Un ligero fondo al pasar el ratón para indicar que es interactivo */
+}
+
+/* El estilo que hace que el texto se vea borroso */
+.blurred-text {
+  color: transparent; /* Hace el texto invisible */
+  text-shadow: 0 0 8px rgba(0, 0, 0, 0.5); /* Crea una sombra borrosa con la forma del texto */
+  transition: all 0.3s ease;
+}
+
+/* Cuando le añadamos la clase 'revealed', el texto se volverá normal */
+.blurred-text.revealed {
+  color: inherit; /* Hereda el color de texto normal */
+  text-shadow: none; /* Quita la sombra borrosa */
+}

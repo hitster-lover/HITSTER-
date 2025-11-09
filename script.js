@@ -4118,23 +4118,40 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        // Buscamos la canción en nuestro array.
-        // Como el array empieza en 0, restamos 1 al número.
         const cancionEncontrada = canciones.find(c => c.Número === numeroBuscado);
 
         // Mostramos el resultado
         if (cancionEncontrada) {
+            // Mostramos el número de la canción claro, y el resto borroso.
             divResultado.innerHTML = `
-                <h2>#${cancionEncontrada.Número}: ${cancionEncontrada.Título}</h2>
-                <p><strong>Artista:</strong> ${cancionEncontrada.Artista}</p>
-                <p><strong>Año:</strong> ${cancionEncontrada.Año}</p>
+                <h2>Canción #${cancionEncontrada.Número}</h2>
+                
+                <div class="info-secreta" title="Haz clic para revelar la información">
+                    <p class="blurred-text"><strong>Título:</strong> ${cancionEncontrada.Título}</p>
+                    <p class="blurred-text"><strong>Artista:</strong> ${cancionEncontrada.Artista}</p>
+                    <p class="blurred-text"><strong>Año:</strong> ${cancionEncontrada.Año}</p>
+                </div>
+
                 <a href="${cancionEncontrada.Enlace}" target="_blank" class="boton-reproducir">
                     ▶️ Escuchar en Spotify
                 </a>
             `;
+
+            // Añadimos la lógica para revelar la información al hacer clic.
+            const infoSecreta = divResultado.querySelector('.info-secreta');
+            
+            infoSecreta.addEventListener('click', () => {
+                const elementosBorrados = infoSecreta.querySelectorAll('.blurred-text');
+                elementosBorrados.forEach(el => {
+                    el.classList.add('revealed');
+                });
+                infoSecreta.style.cursor = 'default';
+                infoSecreta.removeAttribute('title'); // Quitamos el tooltip después de revelar
+            }, { once: true });
+
         } else {
             // Esto solo pasaría si faltan números en tu lista
-            divResultado.innerHTML = `<p class="error">Canción no encontrada. ¡Qué raro!</p>`;
+            divResultado.innerHTML = `<p class="error">Ese número no está en la lista. ¡Prueba con otro!</p>`;
         }
     };
 
