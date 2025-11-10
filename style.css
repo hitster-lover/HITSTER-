@@ -1,11 +1,13 @@
-/* Opción 3: Cálida y Acogedora */
+/* Opción: Estilo "Hitster" Neón Party */
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #FECE8C; /* Fondo de color melocotón, muy cálido */
-    color: #333;
+    /* Fondo oscuro, casi negro, para emular el look de la app y el juego */
+    background-color: #0D0D0D; 
+    /* Texto principal en un gris claro para que sea legible sobre el fondo oscuro */
+    color: #f0f0f0; 
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,17 +16,24 @@ body {
 }
 
 .container {
-    background-color: white;
+    /* Un contenedor ligeramente más claro que el fondo para que se distinga */
+    background-color: #1A1A1A; 
     padding: 30px 40px;
     border-radius: 10px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    /* Borde en color cian neón para darle el toque Hitster */
+    border: 1px solid #00E0FF; 
+    /* Sombra de color rosa para crear un efecto de "brillo neón" */
+    box-shadow: 0 0 15px rgba(232, 0, 150, 0.5); 
     text-align: center;
     max-width: 500px;
     width: 90%;
 }
 
 h1 {
-    color: #103754; /* Título principal en azul oscuro para que se lea bien */
+    /* Título principal en el rosa neón característico de Hitster */
+    color: #E80096; 
+    /* Pequeña sombra para simular el brillo del neón */
+    text-shadow: 0 0 5px #E80096; 
 }
 
 .search-box {
@@ -36,42 +45,57 @@ h1 {
 #input-numero {
     flex-grow: 1;
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid #555;
+    background-color: #333; /* Fondo oscuro para el input */
+    color: #fff; /* Texto blanco en el input */
     border-radius: 5px;
     font-size: 16px;
+}
+
+#input-numero:focus {
+    /* Al seleccionar el input, el borde se ilumina en rosa */
+    outline: none;
+    border-color: #E80096;
+    box-shadow: 0 0 5px #E80096;
 }
 
 #boton-buscar {
     padding: 10px 20px;
     border: none;
-    background-color: #F17961; /* Botón de búsqueda en coral vibrante */
+    /* Botón de búsqueda en el rosa neón principal */
+    background-color: #E80096; 
     color: white;
     border-radius: 5px;
     cursor: pointer;
     font-size: 16px;
-    transition: background-color 0.3s;
+    transition: all 0.3s;
 }
 
 #boton-buscar:hover {
-    background-color: #d96a54; /* Coral más oscuro */
+    /* Al pasar el ratón, el botón brilla y se intensifica */
+    background-color: #ff1ca9; 
+    box-shadow: 0 0 10px #E80096;
 }
 
 #resultado {
     margin-top: 25px;
     padding-top: 20px;
-    border-top: 1px solid #eee;
+    border-top: 1px solid #333; /* Separador más sutil */
 }
 
 #resultado h2 {
     margin-top: 0;
-    color: #103754; /* Título de la canción en azul oscuro */
+    /* Título de la canción en el color cian neón secundario */
+    color: #00E0FF; 
+    text-shadow: 0 0 3px #00E0FF;
 }
 
 .boton-reproducir {
     display: inline-block;
     margin-top: 15px;
     padding: 12px 25px;
-    background-color: #1DB954; /* Botón de reproducir en azul para contrastar */
+    /* El verde de Spotify ya encaja perfecto en esta paleta de música y fiesta */
+    background-color: #1DB954; 
     color: white;
     text-decoration: none;
     border-radius: 25px;
@@ -81,16 +105,17 @@ h1 {
 
 .boton-reproducir:hover {
     transform: scale(1.05);
-    background-color: #1AA34A; /* Azul un poco más oscuro */
+    background-color: #1AA34A;
 }
 
 .error {
-    color: #F17961; /* Mensaje de error en coral */
+    /* Mensaje de error en un amarillo vibrante para que destaque */
+    color: #FFD700; 
     font-weight: bold;
 }
 
 
-/* Contenedor para la información secreta, para que sea clickeable */
+/* Contenedor para la información secreta */
 .info-secreta {
     cursor: pointer;
     border-radius: 8px;
@@ -99,18 +124,20 @@ h1 {
 }
 
 .info-secreta:hover {
-    background-color: #f7f7f7; /* Un ligero fondo al pasar el ratón para indicar que es interactivo */
+    /* Un fondo más oscuro al pasar el ratón para indicar que es interactivo */
+    background-color: #2a2a2a; 
 }
 
 /* El estilo que hace que el texto se vea borroso */
 .blurred-text {
-  color: transparent; /* Hace el texto invisible */
-  text-shadow: 0 0 8px rgba(0, 0, 0, 0.5); /* Crea una sombra borrosa con la forma del texto */
+  color: transparent;
+  /* La sombra ahora es blanca para que se vea sobre el fondo oscuro */
+  text-shadow: 0 0 8px rgba(255, 255, 255, 0.7); 
   transition: all 0.3s ease;
 }
 
 /* Cuando le añadamos la clase 'revealed', el texto se volverá normal */
 .blurred-text.revealed {
-  color: inherit; /* Hereda el color de texto normal */
-  text-shadow: none; /* Quita la sombra borrosa */
+  color: inherit; /* Hereda el color #f0f0f0 del body */
+  text-shadow: none;
 }
