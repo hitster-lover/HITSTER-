@@ -1,0 +1,586 @@
+﻿Numero;Titulo;Artista;Año;Enlace
+1;La Gata Bajo la Lluvia;Rocío Dúrcal;1981;https://open.spotify.com/intl-es/track/7aOFPde65u12EJmh1dr7uL
+2;Me Olvidé De Vivir;Julio Iglesias;1978;https://open.spotify.com/intl-es/track/0XPt3eOkEIzhDCyFhfRaUh
+3;Rufino;Luz Casal;1985;https://open.spotify.com/intl-es/track/1uaJUd68rBoPYNvafL8ymh
+4;Corazón de neón;Orquesta Mondragon;1987;https://open.spotify.com/intl-es/track/5zAnoLd8d4ssifVCnSDrwG
+5;Eres;Massiel;1981;https://open.spotify.com/intl-es/track/0CqSDMvzIOxdJRbCwwCIkM
+6;Gloria;Umberto Tozzi;1979;https://open.spotify.com/intl-es/track/4wMGxH3cJ8oDr6lG3bBrGL
+7;Tú;Umberto Tozzi;1978;https://open.spotify.com/intl-es/track/6Gbc24EJdvZgpY0b5pNxhA
+8;¿Por qué te vas?;Janette;1974;https://open.spotify.com/intl-es/track/11rsK9GDZ9UdWsxtDqnMmN
+9;Una calle de París;Duncan Dhu;1987;https://open.spotify.com/intl-es/track/1nLOdVT581H7SA0ttCZRF9
+10;El calor del amor en un bar;Gabinete Caligari;1986;https://open.spotify.com/intl-es/track/0AFJOoRQFlo10Vm1p6BRjg
+11;Embrujada;Tino Casal;1983;https://open.spotify.com/intl-es/track/6udZus2RwDVhD3zateRfFy
+12;Eloise;Tino Casal;1987;https://open.spotify.com/intl-es/track/16k0xwujtU1eoSLEfofWQ8
+13;Ni tú ni nadie;Alaska y Dinarama;1984;https://open.spotify.com/intl-es/track/7LpS82vPDLgZAHWRtWBBRj
+14;Aquí no hay playa;The Refrescos;1989;https://open.spotify.com/intl-es/track/4PRJD9T23GQKQYKhJQcGGY
+15;Rock and Roll Star;Loquillo;1981;https://open.spotify.com/intl-es/track/2MPWdzsLs7owJCpNS1Eq8Y
+16;Hormigón, mujeres y alcohol;Ramoncin;1981;https://open.spotify.com/intl-es/track/2kdcgSLw6FzxdL0gkhAT16
+17;Yo no soy esa;Mari Trini;1971;https://open.spotify.com/intl-es/track/6mpJrtlX03lQd5UdsdjXOz
+18;La chica de ayer;Nacho Pop;1980;https://open.spotify.com/intl-es/track/1aZc9YBrZpKCE1YqSMV5Vg
+19;Cien Gaviotas;Duncan Dhu;1986;https://open.spotify.com/intl-es/track/5i07tC6hV5AtYTr0tsP0Uy
+20;Solo Le Pido a Dios - En Directo;Antonio Flores;1994;https://open.spotify.com/intl-es/track/38EKqFChMuL8oGCj1YnBRa
+21;Un Beso Y Una Flor;Nino Bravo;1972;https://open.spotify.com/intl-es/track/5IU4JO2cpa0wPK8oQWFfCr
+22;Acordes;Pecos;1979;https://open.spotify.com/intl-es/track/3MLnZadhoFpkGWibabX98d
+23;Gavilán o Paloma;Pablo Abraira;1977;https://open.spotify.com/intl-es/track/43wyXbukLasmkQGkquqMHs
+24;Si Tu Fueras Mi Mujer;Lorenzo Santamaría;1975;https://open.spotify.com/intl-es/track/1ZxWjK1wqkHEwYBt9ayplF
+25;Mamma Maria;Ricchi E Poveri;1982;https://open.spotify.com/intl-es/track/7tVEeTbzEJkHP0EqUu6rmf
+26;L'italiano;Toto Cutugno;1983;https://open.spotify.com/intl-es/track/2S7RApTsKT0CtYojYq2cKz
+27;Yo no Te Pido la Luna;Fiordaliso;1984;https://open.spotify.com/intl-es/track/5Wrs4ChK5nx9g4fTGNpDIf
+28;Pedro Navaja;Rubén Blades;1978;https://open.spotify.com/intl-es/track/09PGyODYYlVsL49N7TR914
+29;Cuando Brille el Sol;La Guardia;1999;https://open.spotify.com/intl-es/track/0lFMpSl7fU4FU1ZfVWY7He
+30;Vivir Así Es Morir de Amor;Camilo Sesto;1978;https://open.spotify.com/intl-es/track/3yzHIAzk3zVE1WgspS8W21
+31;A quién le importa;Alaska Y Dinarama;1986;https://open.spotify.com/intl-es/track/7Eb5AYiiGWItBNddlmxvnh
+32;Mi gran noche;Raphael;1967;https://open.spotify.com/intl-es/track/6Tnnk7MAnZiDx67DJN2hnx
+33;¡Chas! Y aparezco a tu lado;Alex Y Christina;1988;https://open.spotify.com/intl-es/track/1eRgClFGphd2MgpyIBsbfS
+34;Eva Maria;Formula V;1973;https://open.spotify.com/intl-es/track/5fc3XWSpJo6jTlbjnhGOJQ
+35;Enamorado de la moda juvenil;Radio Futura;1980;https://open.spotify.com/intl-es/track/6dC0U0ZJrmSw05sdnjDpGJ
+36;Viaje con nosotros;Orquesta Mondragon;1980;https://open.spotify.com/intl-es/track/4YYd1oPidpG7rVu4OLjPG7
+37;Hoy No Me Puedo Levantar;Mecano;1982;https://open.spotify.com/intl-es/track/4oHDiaCilM1xWIr55LjxO0
+38;Don Diablo;Miguel Bosé;1980;https://open.spotify.com/intl-es/track/2yNkRWz9x7x3halzGPnYqn
+39;Yo no te pido la luna (Non voglio mica la luna);Daniela Romo;1984;https://open.spotify.com/intl-es/track/09uE7kHv2ESkvtInKugpGM
+40;Me Colé en una Fiesta;Mecano;1982;https://open.spotify.com/intl-es/track/7zteNrLJJwjGa8e2IodVOp
+41;Bailando;Alaska Y Los Pegamoides;1982;https://open.spotify.com/intl-es/track/0OteyYh6inrfcil1XGwC3r
+42;Te Estoy Amando Locamente;Las Grecas;1974;https://open.spotify.com/intl-es/track/5QfmCmdL4qnzqMz5Z0gvzV
+43;Cadillac solitario - Live;Loquillo Y Los Trogloditas;1989;https://open.spotify.com/intl-es/track/3GHgLIY5drnms1MPKcMlmi
+44;Adiós papá;Los Ronaldos;1988;https://open.spotify.com/intl-es/track/29OKK8URiORBpRsimvzsmm
+45;Bailaré sobre tu tumba;Siniestro Total;1985;https://open.spotify.com/intl-es/track/36PL1fiYUnX7pJQRY1qwVw
+46;El Pistolero;Pistones;1983;https://open.spotify.com/intl-es/track/5d0M8iFSNn4fonHyRT8yeq
+47;El Limite;La Frontera;1989;https://open.spotify.com/intl-es/track/0NFcUhw2uKzX0zqH81tWOu
+48;Maneras de Vivir (Single Estudio);Leño;1981;https://open.spotify.com/intl-es/track/7kCiAaismDVaCjpyGF3YJB
+49;Veneno en la Piel;Radio Futura;1984;https://open.spotify.com/intl-es/track/3RDMd9JiKdVik8zjGhZ0wJ
+50;No Mires a los Ojos de la Gente;Golpes Bajos;1983;https://open.spotify.com/intl-es/track/1KH2PcBCAaHRL6F5ZZgY1S
+51;Quiero tener tu presencia;Seguridad Social;1993;https://open.spotify.com/intl-es/track/3f2k0XTc2ZXG17jEMDu8pp
+52;Un rayo de sol (Fernando) - 2015 Remastered Version;Los Diablos;1970;https://open.spotify.com/intl-es/track/5juAYZUZPMEWJlzwoa9nOO
+53;¿Y cómo es él?;José Luis Perales;1984;https://open.spotify.com/intl-es/track/0UUJju7jtTViPCdauXKVZ1
+54;Digan lo que digan;Raphael;1967;https://open.spotify.com/intl-es/track/3JclUL96MU6SWZCPb1wzih
+55;Noelia;Nino Bravo;1975;https://open.spotify.com/intl-es/track/2H6pXO5yKat03sbr1ERzZv
+56;Sabor de amor;Danza Invisible;1988;https://open.spotify.com/intl-es/track/2UC0OxMpQeSYft4pRswyEX
+57;Solo Se Vive una Vez;Azucar Moreno;1989;https://open.spotify.com/intl-es/track/0ATzislS5SvAp69hjHczej
+58;"Follow the Leader ""Sigue al lider""";Sol Habana;1991;https://open.spotify.com/intl-es/track/6G5GbFe5jWUWqZ3WmXiew5
+59;Y Nos Dieron las Diez;Joaquín Sabina;1992;https://open.spotify.com/intl-es/track/1eCie6lwjb4crxeAvkRaSi
+60;Amante Bandido;Miguel Bosé;1984;https://open.spotify.com/intl-es/track/1hj6nYHeGclSY0VNTHMi27
+61;Salta!!!;Tequila;1981;https://open.spotify.com/intl-es/track/0M2tanh26PWePnaGVV3h3y
+62;19 Dias y 500 Noches;Joaquín Sabina;1999;https://open.spotify.com/intl-es/track/4Kii4OhkRIezu0KjOiFq0G
+63;Mediterraneo;Los Rebeldes;1990;https://open.spotify.com/intl-es/track/6QBLmxP1tU6lw1dhKQulau
+64;Siete Vidas;Antonio Flores;1984;https://open.spotify.com/intl-es/track/1gh0aMZmO6o30LS12lEJWQ
+65;Penelope;Joan Manuel Serrat;1969;https://open.spotify.com/intl-es/track/5sfy5t9U4Uhp6jPKvq2muQ
+66;Resistiré;Duo Dinamico;1998;https://open.spotify.com/intl-es/track/2oI6d7XcMz1AMTQhDopV5J
+67;El 28;La Oreja de Van Gogh;1998;https://open.spotify.com/intl-es/track/4aNYsOVFqueCQrDeluqp0H
+68;Macarena;Los Del Rio;1993;https://open.spotify.com/intl-es/track/4Y6cDd4EPHcEbiUKdyvNwM
+69;La Carretera;Julio Iglesias;1995;https://open.spotify.com/intl-es/track/7pjtYZml30McGVL6Lk5bMh
+70;Cannabis;Ska-P;1995;https://open.spotify.com/intl-es/track/0DjSa6czo5ywsf6iCtZW5A
+71;El Gato Lopez;Ska-P;1992;https://open.spotify.com/intl-es/track/6oytv9amMEx3pxSw9UmEtv
+72;Fiesta;Joan Manuel Serrat;1992;https://open.spotify.com/intl-es/track/3uczGVEmktxNt15VoBALL6
+73;Carbón y Ramas Secas;Manolo Garcia;1996;https://open.spotify.com/intl-es/track/0fmASfcJJ6N8hTvGTa8Hhi
+74;Bamboléo;Gipsy Kings;1997;https://open.spotify.com/intl-es/track/3qzVJh6INW1CzSDVR9MRgS
+75;Bajo la Luz de la Luna;Los Rebeldes;1998;https://open.spotify.com/intl-es/track/2hfv8QRES8BwT49kO0Hhmd
+76;No Controles;Ole Ole;1983;https://open.spotify.com/intl-es/track/1suKCYjsR9rZKnFYM5uK1k
+77;La Quiero A Morir;Manzanita;1987;https://open.spotify.com/intl-es/track/0loxOLrtuQBxkqdoTKTIj2
+78;El Hombre del Piano;Ana Belén;1999;https://open.spotify.com/intl-es/track/61ccRl3FBtLs3U5HuBtP6e
+79;Sorprendente;Leño;1994;https://open.spotify.com/intl-es/track/6Xueg8DmwhkU4xf0Q3xlWN
+80;Olvídame y Pega la Vuelta;Pimpinela;1982;https://open.spotify.com/intl-es/track/4FdwRmlzP5KGM7OewGBYiu
+81;Baron Rojo;Barón Rojo;1990;https://open.spotify.com/intl-es/track/3ja1qnawwz4yqGETFEVLL0
+82;El Toro Guapo;El Fary;1982;https://open.spotify.com/intl-es/track/6D3YqQ9dUA9LBOLw4CEUj1
+83;Amor Eterno;Rocío Dúrcal;1981;https://open.spotify.com/intl-es/track/2TC4v9YiuQYk3Tk8RH7fV4
+84;Un Ramito de Violetas;Manzanita;1984;https://open.spotify.com/intl-es/track/02PROe7elhI6Cyu6KJONhX
+85;Trátame Suavemente - Remasterizado 2007;Soda Stereo;1984;https://open.spotify.com/intl-es/track/65DBZofI0b79kfHTcWWDuU
+86;Como una Ola;Rocío Jurado;1981;https://open.spotify.com/intl-es/track/1gNXYvLc14OmqK6gSJKLUM
+87;Señora;Rocío Jurado;1984;https://open.spotify.com/intl-es/track/6XSYNsvSOtDzmH3lFUJnQl
+88;Rock And Roll en la Plaza del Pueblo;Tequila;1999;https://open.spotify.com/intl-es/track/5fCYRuYxc1ox7yWKcKD6tf
+89;Que Difícil Es Hacer El Amor En Un Simca 1000;Los Inhumanos;1988;https://open.spotify.com/intl-es/track/5sh52OSkS9OoEBJSI2CVxr
+90;Escuela de Calor;Radio Futura;1984;https://open.spotify.com/intl-es/track/7J0niAY0FLzGiCVJUREl88
+91;Asi Fue;Isabel Pantoja;1984;https://open.spotify.com/intl-es/track/419FFiitGchOUaIMEY7Dqi
+92;Agradecido;Rosendo;1988;https://open.spotify.com/intl-es/track/7F5AYZAPcNE9rIpCCHFEeh
+93;Volare (Nel Blu di Pinto di Blu);Gipsy Kings;1986;https://open.spotify.com/intl-es/track/5QrHfu4q83HjcFcRi2WlS3
+94;Loco por Incordiar;Rosendo;1989;https://open.spotify.com/intl-es/track/6VuRx5yyACleleSGXzkrqG
+95;Como Yo Te Amo - Remasterizado;Rocío Jurado;1997;https://open.spotify.com/intl-es/track/3pBmaSZCoLF0drPRuf85O5
+96;Hoy Quiero Confesarme;Isabel Pantoja;1985;https://open.spotify.com/intl-es/track/5wI6PpGIGw25jewhrbnxWG
+97;El Mundo Tras el Cristal;La Guardia;1985;https://open.spotify.com/intl-es/track/1VHM7HjNxtZkApy2EabI4e
+98;La Cosa Mas Bella;Eros Ramazzotti;1996;https://open.spotify.com/intl-es/track/1EZypwk0xcj64ZLAglhLs2
+99;Por Ella;José Manuel Soto;1988;https://open.spotify.com/intl-es/track/3OLADK5y0rOTjyuQ6cPn7t
+100;Lija Y Terciopelo;Marea;1988;https://open.spotify.com/intl-es/track/58psRexxWVZNbcUK5BU1d4
+101;Ese Hombre;Rocío Jurado;1987;https://open.spotify.com/intl-es/track/47WTpJKUjZ4hxNECGMAVhS
+102;Libertad Sin Ira;Jarcha;1991;https://open.spotify.com/intl-es/track/63ZPDjygXPMtqmpcoJUVk5
+103;All My Loving;Los Manolos;1991;https://open.spotify.com/intl-es/track/2x3MxkdvKiWvLor7yNeLWB
+104;Escándalo;Raphael;1992;https://open.spotify.com/intl-es/track/3xbymP6jIcdN0O2PB420bz
+105;Cuéntame al Oido;La Oreja de Van Gogh;1992;https://open.spotify.com/intl-es/track/75QcWSFMIh8wkbGHdVQoju
+106;A Mi Manera (Comme D'Habitude);Gipsy Kings;1998;https://open.spotify.com/intl-es/track/2RPNwpCcxVBhwhNUrJIiyG
+107;Garlochi;Isabel Pantoja;1982;https://open.spotify.com/intl-es/track/6rVZRbWjALEyy1i6noyQ6j
+108;Alba;Antonio Flores;1992;https://open.spotify.com/intl-es/track/6uojMoKuVkIVEeqH4JCBAr
+109;El Vals del Obrero;Ska-P;1994;https://open.spotify.com/intl-es/track/4UjqoyfmarLo3Ub3LE19eC
+110;Pantera en Libertad;Monica Naranjo;1996;https://open.spotify.com/intl-es/track/6BEhC3j62wIpe9m7zPL4Tx
+111;Vino Tinto;Estopa;2001;https://open.spotify.com/intl-es/track/15m2Op4d1ZtX0ScPaDNKcd
+112;Cacho a Cacho;Estopa;1999;https://open.spotify.com/intl-es/track/6VVBXRsXAuN5UvqKNw7j0l
+113;Me Gustas Mucho;Rocío Dúrcal;1992;https://open.spotify.com/intl-es/track/2i7SlECYIAsT72FpLUU1Uj
+114;"Amor de Hombre (De ""La Leyenda del Beso"")";Mocedades;1992;https://open.spotify.com/intl-es/track/2XOuNjvWYgPmdtTwjQTd23
+115;Solo Se Vive una Vez;Monica Naranjo;1994;https://open.spotify.com/intl-es/track/2e7mL0M7mvjYVANfWPUjCH
+116;La Puerta de Alcalá;Ana Belén;1986;https://open.spotify.com/intl-es/track/29opVIw8I1BOZntEn3Un2I
+117;Tocar Madera;Manolo Tena;1992;https://open.spotify.com/intl-es/track/3Cdlb91oUTuN2hOVNdhfQT
+118;Las Campanas del Amor;Monica Naranjo;1997;https://open.spotify.com/intl-es/track/6BOdOiwlrChSQkyO9CQnYQ
+119;Te Estoy Queriendo Tanto;Siempre Asi;1997;https://open.spotify.com/intl-es/track/1Nr7Sj9d0dVZ6xJdvoS5yE
+120;El del Medio de los Chichos;Estopa;1999;https://open.spotify.com/intl-es/track/4UMCpYrmgZv9CsyLvrws4F
+121;Sarà perché ti amo;Ricchi E Poveri;1998;https://open.spotify.com/intl-es/track/7037bX3jdaUWUAXL12CHGy
+122;Corazón Contento;Marisol;1968;https://open.spotify.com/intl-es/track/5r5hCjNjWdmQTHtHBZ7ghy
+123;Estando Contigo;Marisol;1961;https://open.spotify.com/intl-es/track/1daUAcGgT52l7KevC8gw3p
+124;Cerrado por Derribo;Joaquín Sabina;1999;https://open.spotify.com/intl-es/track/2LmQV8kR5L6ooO1hTokgwa
+125;La Ultima Carta;Los Cucas;1999;https://open.spotify.com/intl-es/track/0snvfum1KpU3X8DdAvV9bo
+126;Marea;Marea;1999;https://open.spotify.com/intl-es/track/4TUYhTFCrUoJCONLmcZ3Zg
+127;Cumpleaños Total;Los Planetas;1999;https://open.spotify.com/intl-es/track/5QJhfu8ajjVuJetRxw1B4K
+128;Aprendiz;Malú;1998;https://open.spotify.com/intl-es/track/6IDgYT1p1n0M5kQVjLQozC
+129;Bandido;Azucar Moreno;1990;https://open.spotify.com/intl-es/track/2rHhKu1hW8uqyr7LSrRn8E
+130;Sabor, Sabor;Rosario;1992;https://open.spotify.com/intl-es/track/4zMJYmYSTZBNn1YdZVznSS
+131;Punto De Partida (with Monica Naranjo);Rocío Jurado;2006;https://open.spotify.com/intl-es/track/75cWbqIqhfEfX8uOHlgWZV
+132;Corazón de Tiza;Radio Futura;1984;https://open.spotify.com/intl-es/track/1qKxd0wZWIBR2D3dqFJbVD
+133;Camino de la cama;Siniestro Total;1990;https://open.spotify.com/intl-es/track/4V9rNbT5b0TTZrGAEgteDi
+134;Los Chicos Con las Chicas;Los Bravos;1998;https://open.spotify.com/intl-es/track/1k4kMMTPN5Yc0KdMxtMTuj
+135;Salir;Extremoduro;1991;https://open.spotify.com/intl-es/track/4z2EeFUp5Lhai9qhHtA6IF
+136;20 de abril;Celtas Cortos;1999;https://open.spotify.com/intl-es/track/7ifOnwJC0oH7cfbJQbUye1
+137;Llamando a la tierra - Serenade From the Stars;M-Clan;1997;https://open.spotify.com/intl-es/track/7M65iLprqQ9UJNqer4g6AM
+138;La flaca;Jarabe De Palo;1996;https://open.spotify.com/intl-es/track/1MrZ8hGkUWMmT816wPaMgE
+139;A fuego lento;Rosana;1996;https://open.spotify.com/intl-es/track/7nK3q1GgJDxlWfCwtiLV5a
+140;¡Que Bonito!;Rosario;1996;https://open.spotify.com/intl-es/track/1MO5KuLnSaY1dlkWGDjHkT
+141;Noches de bohemia - Radio Edit;Navajita Platea;1997;https://open.spotify.com/intl-es/track/1JpZMDDAkfhnrO6nXIQZ2g
+142;Flaca;Andrés Calamaro;1997;https://open.spotify.com/intl-es/track/1p7m9H4H8s0Y7SgRm7j3ED
+143;La Lola;Café Quijano;1998;https://open.spotify.com/intl-es/track/5hyq5k3Do9gW3HGvDg5ZEJ
+144;El sitio de mi recreo;Antonio Vega;1998;https://open.spotify.com/intl-es/track/2tkMVjFwDzUCG3ulmz3fCb
+145;Pajaros de Barro;Manolo Garcia;1995;https://open.spotify.com/intl-es/track/4B6ko7lt1sUtyFzBDF4yfK
+146;Como un burro amarrado en la puerta del baile;El Último De La Fila;1993;https://open.spotify.com/intl-es/track/0IUFjvwlh18TWiTi6kO5pP
+147;Por verte sonreír;La Fuga;1998;https://open.spotify.com/intl-es/track/6tGUkobti5ztrb9aQ0UDEx
+148;A San Fernando un Ratito a Pie y Otro Caminando;Manolo Garcia;1998;https://open.spotify.com/intl-es/track/740Rh302Wm6uHRsYTa4KDQ
+149;Grita;Jarabe De Palo;1996;https://open.spotify.com/intl-es/track/0wmYFlVkmGVUtfcY1r0SrP
+150;Estoy Aquí;Shakira;1995;https://open.spotify.com/intl-es/track/4M1lEbqPzlEw1JYWB6aE7K
+151;Entre dos tierras;Heroes Del Silencio;1990;https://open.spotify.com/intl-es/track/7BYqVvoXpQFhs4jJ0qqNZt
+152;Vivo per lei;Andrea Bocelli;1995;https://open.spotify.com/intl-es/track/6cPLCU7hKjgjvLWzCevl7R
+153;So payaso;Extremoduro;1996;https://open.spotify.com/intl-es/track/5HSpMRUC4m3L3q48to2Kmu
+154;Rojitas las orejas;Fito y Fitipaldis;1998;https://open.spotify.com/intl-es/track/42R5irny7qThOYUThAL7VW
+155;Mar antiguo;El Último De La Fila;1993;https://open.spotify.com/intl-es/track/3tduKvstqxOddo4CCq4FK1
+156;Al Amanecer;Los Fresones Rebeldes;1997;https://open.spotify.com/intl-es/track/7qhuaYIafvH285FtQT71oQ
+157;La senda del tiempo;Celtas Cortos;1990;https://open.spotify.com/intl-es/track/6dMKB6nyxcg8hllDzPCvRc
+158;Promesas que no valen nada;Los Piratas;1995;https://open.spotify.com/intl-es/track/37f6dBsGwi5V9OOXI1KYe7
+159;Serenade;Dover;1997;https://open.spotify.com/intl-es/track/4tzi4VV1vCTZsT4SEKQIKJ
+160;El roce de tu cuerpo;Platero Y Tu;1992;https://open.spotify.com/intl-es/track/3EPd9riN2R8Zjl6GkrxxGl
+161;Cosas de la Edad;Modestia Aparte;1990;https://open.spotify.com/intl-es/track/0wkQHjULGZeZC15hOl9jl4
+162;Tu Calorro;Estopa;1999;https://open.spotify.com/intl-es/track/0DXI6c9tNWsI4tvUftkQN8
+163;Te echaré de menos (feat. Sole Gimenez);Los Piratas;1997;https://open.spotify.com/intl-es/track/2UNsLrBr6NXkIDtfMc4Vbw
+164;Chiquilla;Seguridad Social;1991;https://open.spotify.com/intl-es/track/4eJikwHYHJ3yMg1tvS1Mom
+165;Quedate a dormir;M-Clan;1999;https://open.spotify.com/intl-es/track/0UQitarNPDgB7ObJCj47kn
+166;Como Te Mueves;Modestia Aparte;1991;https://open.spotify.com/intl-es/track/3eSxyGVZawSoh1JUEEoVDD
+167;Por la Raja de Tu Falda;Estopa;1999;https://open.spotify.com/intl-es/track/5OaqffbeQyVVqtnA71Ci7K
+168;Dolores se llamaba Lola;Los Suaves;1988;https://open.spotify.com/intl-es/track/5kQb5n1sMy5CmYTSoB5p6M
+169;Eldorado;Revolver;1995;https://open.spotify.com/intl-es/track/5z4bBpoquaB0xHvXZH9L2w
+170;Papá Cuéntame Otra Vez;Ismael Serrano;1997;https://open.spotify.com/intl-es/track/5lg2cApHn9zCVkJcwou0iN
+171;Una Rosa Es una Rosa;Mecano;1991;https://open.spotify.com/intl-es/track/4t4JJ0RG2KWhrTVdSrp7O9
+172;En Blanco Y Negro;Barricada;1995;https://open.spotify.com/intl-es/track/0FJBWXOa9tYcJCxv1YxP9H
+173;Tras la barra;Platero Y Tu;1993;https://open.spotify.com/intl-es/track/0fN93Sc6gJCkHbh9bqlLX7
+174;Depende;Jarabe De Palo;1998;https://open.spotify.com/intl-es/track/6aaPUBUFw9KEW1p1inVQv9
+175;Lagrimas De Amor;Camela;1994;https://open.spotify.com/intl-es/track/7wjQF9XTCrjvQZLeZBGMWs
+176;Voy en un coche;Christina y Los Subterraneos;1992;https://open.spotify.com/intl-es/track/4SnU0W6LY2CD4iH5vb4kgQ
+177;Ya No Quiero Tu Querer;José El Francés;1993;https://open.spotify.com/intl-es/track/4ZWU1yATGjEQQz2FCnmX3b
+178;Clavado en Un Bar;Maná;1997;https://open.spotify.com/intl-es/track/78DVpEWwmJFC25KGz8fJuE
+179;Si es tan solo amor;Revolver;1993;https://open.spotify.com/intl-es/track/02MahX3ZEDqQI8akhisqOc
+180;Hay poco rock'n'roll;Platero Y Tu;1994;https://open.spotify.com/intl-es/track/36j2mLDy4nPQRnvst4moR4
+181;Mucho mejor (feat. Coque Malla);Los Rodriguez;1995;https://open.spotify.com/intl-es/track/06xLo8Oa53wmBMdWcIsqPL
+182;Ciega, Sordomuda;Shakira;1998;https://open.spotify.com/intl-es/track/7jxHeJLVpnP7S08JFF4GBi
+183;Amigos para Siempre;Los Manolos;1992;https://open.spotify.com/intl-es/track/6PfQB3xEbIlky1dXOb3Yyh
+184;El ritmo del mar;Celtas Cortos;1991;https://open.spotify.com/intl-es/track/4wzMQBLGXFoZkbEwNP2QJu
+185;Sin documentos;Los Rodriguez;1993;https://open.spotify.com/intl-es/track/6eOT73H5zfEwTCe1Y0FDCc
+186;Kalikeno - Rumba;Ketama;1990;https://open.spotify.com/intl-es/track/4LxFbjtxUtV1h6DNIqRBIK
+187;No Puedo Vivir Sin Ti;El Canto Del Loco;2009;https://open.spotify.com/intl-es/track/3K8BeABgLXZ3JHhdM3rZBx
+188;El Secreto de las Tortugas;Maldita Nerea;2009;https://open.spotify.com/intl-es/track/1sMgCr1RH0HfAazVZt9xmZ
+189;Zapatillas;El Canto Del Loco;2005;https://open.spotify.com/intl-es/track/42VgiRyg0YjtRVLiPFNxPJ
+190;Como Camarón;Estopa;1999;https://open.spotify.com/intl-es/track/1VB4sadHjFcFklHcZuoROi
+191;Princesas;Pereza;2005;https://open.spotify.com/intl-es/track/3hlWUNjAlbZ6nOjAbrivBv
+192;Rosas;La Oreja de Van Gogh;2003;https://open.spotify.com/intl-es/track/4waqcUQWdj0yH26STWl2Rq
+193;Volvera;El Canto Del Loco;2005;https://open.spotify.com/intl-es/track/4QBrx05HrLnohYaS1cPGHO
+194;Con La Luna Llena;Melendi;2005;https://open.spotify.com/intl-es/track/0XJAzR3E4lq5aNGGDh8HUT
+195;Son de Amores;Andy & Lucas;2003;https://open.spotify.com/intl-es/track/7cC1xYRITIkGKAGCSyqCAv
+196;Me Muero;La Quinta Estacion;2006;https://open.spotify.com/intl-es/track/3ri9fLG89OdSpjxheYxU7S
+197;Se Fue;Rauw Alejandro;2024;https://open.spotify.com/intl-es/track/1uFW6czrHk5PsK3s6gOI7C
+198;SI ELLA SUPIERA;India Martinez;2022;https://open.spotify.com/intl-es/track/0quM3iWAOKw9OGIMBsppSC
+199;El Polvo de los Días Raros;Leiva;2025;https://open.spotify.com/intl-es/track/6z98CyBiVapgBCecH98y4d
+200;Puede Ser (with Amaia Montero);El Canto Del Loco;2002;https://open.spotify.com/intl-es/track/1TtwCkFbGv89XmuUNmoINt
+201;Carpe Diem;Dani Martín;2024;https://open.spotify.com/intl-es/track/4l7qXzZrZnr2RUgSVSKtnD
+202;Hoy no me siento bien;Alejandro Sanz;2024;https://open.spotify.com/intl-es/track/5xKUXB7fsIEpDYc6mBfSwT
+203;La Salvación;Arde Bogotá;2024;https://open.spotify.com/intl-es/track/6XY4Zaf0AoE5movPc2FfaZ
+204;Dolce Vita;Amaral;2025;https://open.spotify.com/intl-es/track/5zyxGztIuOp27VhkVf1hMZ
+205;Pop;Vicco;2023;https://open.spotify.com/intl-es/track/51VLqRIxEjfT6guWSxEElY
+206;PLAN DE HOY [QUIERO VERTE];Abraham Mateo;2025;https://open.spotify.com/intl-es/track/7bM39j41perIVseatvugg3
+207;HOY TENGO GANAS DE TI;Abraham Mateo;2024;https://open.spotify.com/intl-es/track/27AycGPhBPGCc6YnTZTaSh
+208;Viento de Cara;Supersubmarina;2014;https://open.spotify.com/intl-es/track/5sKdpvvNyRJifUmYLNiYys
+209;La Razón;Ana Mena;2024;https://open.spotify.com/intl-es/track/3CmSv76KDKsvtiyrdgHZHH
+210;Me Acuerdo De Ti;Abraham Mateo;2024;https://open.spotify.com/intl-es/track/4bPxqFfAt9EaFqdIDTxczw
+211;Futuros amantes;Guitarricadelafuente;2025;https://open.spotify.com/intl-es/track/6o8AfVju660AZb5XL5rzzP
+212;Bailarina;Abraham Mateo;2024;https://open.spotify.com/intl-es/track/3MTzCXM4r6yTOLhiuIaRfh
+213;Tormenta Perfecta;Amaia Montero;2014;https://open.spotify.com/intl-es/track/1RG4xMoRobbuqGYHaF4nRp
+214;EL PANTALON - RUMBAS;Omar Montes;2024;https://open.spotify.com/intl-es/track/7CsOowK8aWlxgjuZLW7pXA
+215;Clavaito;Chanel;2023;https://open.spotify.com/intl-es/track/26V1bLUk0SBYkLEwl4caPR
+216;Madrid City;Ana Mena;2023;https://open.spotify.com/intl-es/track/6KHxe3Yj8W8oq3zviUvJRe
+217;Besos;El Canto Del Loco;2005;https://open.spotify.com/intl-es/track/7MKO7rUZzjw8p87zdZDgqa
+218;Nunca Volverás;Vicco;2023;https://open.spotify.com/intl-es/track/1b9sYsa4aFiBv7mqOKvwsM
+219;ENGATUSAO =^.^=;Vicco;2024;https://open.spotify.com/intl-es/track/00MEN35cUoB4rp00iZuiFV
+220;BABIECA!;Guitarricadelafuente;2025;https://open.spotify.com/intl-es/track/45VlOHY7pEd6IC3plYeKZ3
+221;Palmeras en el jardín;Alejandro Sanz;2024;https://open.spotify.com/intl-es/track/5MMEQLCzl9GsknyH42xFOX
+222;El Último Día de Nuestras Vidas;Dani Martín;2024;https://open.spotify.com/intl-es/track/6vYVTjrP8Nd6nsdjCrabM5
+223;Comiendote a Besos;Rozalén;2013;https://open.spotify.com/intl-es/track/02FKjeU8CrA2ckppBa5RJg
+224;Tienes Que Saber;Abraham Mateo;2022;https://open.spotify.com/intl-es/track/2Y9xXXMWqETUfonJjXP25k
+225;LAS 12;Ana Mena;2022;https://open.spotify.com/intl-es/track/0EpdLuptraYGFZ6J7HNSLc
+226;Falsos Recuerdos;Abraham Mateo;2022;https://open.spotify.com/intl-es/track/4snJ71Uz5KvX1CW0SaUiZY
+227;Titiritar;Pol Granch;2024;https://open.spotify.com/intl-es/track/7cJDcvC6nSbkx4quEn7vTk
+228;A carta cabal;Guitarricadelafuente;2022;https://open.spotify.com/intl-es/track/3asOJIkC0NT24zR2S20azY
+229;LLYLM;ROSALÍA;2023;https://open.spotify.com/intl-es/track/2SiAcexM2p1yX6joESbehd
+230;solo x ti;Pol Granch;2022;https://open.spotify.com/intl-es/track/1uUVwLyzKnU8ft18H3QDu9
+231;No, No Vuelve;Dani Martín;2021;https://open.spotify.com/intl-es/track/0ALmQwK6LPYk8dkZozCGd9
+232;La Culpa (feat. Canelita);C. Tangana;2021;https://open.spotify.com/intl-es/track/60e6OnYOu0h7LLhYXgINma
+233;La increíble historia entre tú y yo;Maldita Nerea;2022;https://open.spotify.com/intl-es/track/1MAbXU7OMsOSEH9RoGT5Rs
+234;Gigante;Leiva;2025;https://open.spotify.com/intl-es/track/34vh6JPA1veSYpM0hkNCSE
+235;TE PIENSO A CADA HORA;Dvicio;2022;https://open.spotify.com/intl-es/track/1J9wWlo3oI3HjPnp48L3XL
+236;Ké Más Nos Da;Estopa;2024;https://open.spotify.com/intl-es/track/1JurgyjeCTcDyZErghSV0y
+237;Nochentera;Vicco;2022;https://open.spotify.com/intl-es/track/20CozgjF6bshBw8cLhN23B
+238;XQ Sigues Pasando :(;Abraham Mateo;2022;https://open.spotify.com/intl-es/track/60WnyQpJMxndoCwfo3TbuE
+239;La Musiquita;Daviles de Novelda;2021;https://open.spotify.com/intl-es/track/5LNJHJJd8aBY0aW9CgSgbz
+240;Ester Expósito;Dani Martín;2024;https://open.spotify.com/intl-es/track/4GKjSwmowWO082NGn11wNj
+241;Lentamente;Ana Mena;2023;https://open.spotify.com/intl-es/track/7GJVqqE79WOl8ncT7Y4z0L
+242;Pon Que Dale;Niña Pastori;2023;https://open.spotify.com/intl-es/track/7nIwaCJSx1QHK82f5HlRDe
+243;Cómo Me Gustaría Contarte;Dani Martín;2020;https://open.spotify.com/intl-es/track/21AH6D2xxBxjduEbZHh7i5
+244;Ateo;C. Tangana;2021;https://open.spotify.com/intl-es/track/5xiAfKzE3mbxYbOkUZPR11
+245;La Tortura (feat. Alejandro Sanz);Shakira;2005;https://open.spotify.com/intl-es/track/5BSclXJTa9B0iURhUjZo50
+246;Kriño;Pol Granch;2022;https://open.spotify.com/intl-es/track/53y5byq0942aVeWaxU6mPa
+247;Como Si Fueras a Morir Mañana;Leiva;2019;https://open.spotify.com/intl-es/track/4aAfLSx9IthpC3Pw5pNk3E
+248;La Noria (with Amaral);Pereza;2006;https://open.spotify.com/intl-es/track/3CY6JuDw7bEHRmryKvTuoe
+249;Me He Pillao x Ti;Ana Mena;2023;https://open.spotify.com/intl-es/track/07TRc0Glkk8wDVq3eC5f2Z
+250;pa;TINI;2024;https://open.spotify.com/intl-es/track/490e7PHsxkzMot8qCO36Bt
+251;CANDY;ROSALÍA;2022;https://open.spotify.com/intl-es/track/70AYiGbc4mWZGEqiipBBDb
+252;Nena;Pol Granch;2022;https://open.spotify.com/intl-es/track/53dfoY17ZWSnG92lrBCqMg
+253;Risueña;Omar Montes;2023;https://open.spotify.com/intl-es/track/277ia0CBOO47RhG7XSLj4b
+254;90 Minutos;India Martinez;2011;https://open.spotify.com/intl-es/track/4hO4Y9WR9NL5L7XnqtbTyE
+255;Loca (feat. El Cata);Shakira;2010;https://open.spotify.com/intl-es/track/42k1KeBehAd83lrGt1okiC
+256;Pienso en Aquella Tarde - Nueva Versión;Pereza;2003;https://open.spotify.com/intl-es/track/2VTaauLbYR0VxWaT9rlQFi
+257;Convénceme;India Martinez;2019;https://open.spotify.com/intl-es/track/12oFSoib1tf0r2rd1Fgsfe
+258;La Madre;Víctor Manuel;2024;https://open.spotify.com/intl-es/track/4eUhX5KmmQp537lxDJpmQK
+259;Portales;Dani Martín;2020;https://open.spotify.com/intl-es/track/0Wn489VvZ0b5MRm62LMmUM
+260;Cómo Quieres Que Te Quiera;Rosario;1999;https://open.spotify.com/intl-es/track/0JKUSybmsE4rU1MpImJn0j
+261;5 Sentidos;Dvicio;2017;https://open.spotify.com/intl-es/track/7chjOPhoxbpRYSrO1rvdnu
+262;Terriblemente Cruel;Leiva;2014;https://open.spotify.com/intl-es/track/0XPayKZFFZA2PwSRNi1pVU
+263;Siete Vidas;Antonio Flores;1994;https://open.spotify.com/intl-es/track/7oZpaS7DDMyl3U7RnHsPKp
+264;Millonario;Pol Granch;2020;https://open.spotify.com/intl-es/track/0j6eJIII2AucQBgCGxPrFx
+265;Mi Pequeño Chernóbil;Leiva;2020;https://open.spotify.com/intl-es/track/4uctPC0cRfw3vOmK2YF4xR
+266;Un último vals;Joaquín Sabina;2024;https://open.spotify.com/intl-es/track/4CiY69daQtmIl2RNqsYCtp
+267;Este Tren;Rozalén;2020;https://open.spotify.com/intl-es/track/4zSpfYHyf6bN2jJVO0so03
+268;Nuestro Tiempo;Amaral;2019;https://open.spotify.com/intl-es/track/4BOSdVvfw3b5EAhIK5EIVX
+269;Dejaría Todo;Chayanne;1998;https://open.spotify.com/intl-es/track/5YT1NfgHvrJUhgoHrvD9h7
+270;En el Mundo Genial de las Cosas Que Dices;Maldita Nerea;2011;https://open.spotify.com/intl-es/track/0JXRA6bYdnwkHYAlIwEWb8
+271;A Contracorriente;El Canto Del Loco;2002;https://open.spotify.com/intl-es/track/4fYAcwdEtW2VCZe5Xoe7iC
+272;Dieciocho;Dani Martín;2018;https://open.spotify.com/intl-es/track/3nN5n70vM1tAMWBDZaRbxS
+273;Arráncame la Piel;Pol Granch;2020;https://open.spotify.com/intl-es/track/3uyXupf90Zy56shfjUj7AB
+274;Si Quieres Bailamos (with Quique Gonzalez);Pereza;2006;https://open.spotify.com/intl-es/track/6wfadwumj3jluiqFxqvIl0
+275;Sobreviviré;Monica Naranjo;2000;https://open.spotify.com/intl-es/track/3xGon93gcCARQ4VgYgoirk
+276;Sobrenatural (feat. FARIANA);Dvicio;2022;https://open.spotify.com/intl-es/track/46MznfUnpFS7qEhTpNJl9t
+277;Dolerme;ROSALÍA;2020;https://open.spotify.com/intl-es/track/2reL9PAUza4PUtbjqW1fRf
+278;Empiezo a Recordarte;Monica Naranjo;1997;https://open.spotify.com/intl-es/track/5qtcm02ln28nPGfFonT9ZH
+279;Enamorate;Dvicio;2014;https://open.spotify.com/intl-es/track/4VRP8DfxO2qQOZrnbaj324
+280;Superpoderes;Leiva;2019;https://open.spotify.com/intl-es/track/3by1RwAsoZ6nNoMOCy11LM
+281;Guerra Fria;Malú;2010;https://open.spotify.com/intl-es/track/1G0mTAZcpoU1vKcLO8lb0n
+282;Valio la Pena;Marc Anthony;2004;https://open.spotify.com/intl-es/track/3Ll4D5HXvICXck8KmOjytI
+283;Quiero Ser (feat. Amaia Montero);Jorge Celedón;2008;https://open.spotify.com/intl-es/track/2SxtZcr9RPVvKnVPqUmiPe
+284;Déjala Que Baile (with Alejandro Sanz & Arkano);Melendi;2018;https://open.spotify.com/intl-es/track/2KK9N6iBAisA0booTu3bGd
+285;París;Dani Martín;2016;https://open.spotify.com/intl-es/track/7A6vqBPkt4rbwXsKhrl7B1
+286;Lady Madrid;Pereza;2009;https://open.spotify.com/intl-es/track/5GGUa4ms6gjj9gvPl6kl3r
+287;Sueños Rotos;La Quinta Estacion;2006;https://open.spotify.com/intl-es/track/0LeJMPgBIlWMxdRtjF7Qj1
+288;Yo x Ti, Tu x Mi;ROSALÍA;2019;https://open.spotify.com/intl-es/track/7BlBVFwvbWvcwNcUarQmjk
+289;Estrella Polar (with Juan Aguirre);Pereza;2007;https://open.spotify.com/intl-es/track/5NV19rJlAYrAAFXQTZVC55
+290;Torero;Chayanne;2002;https://open.spotify.com/intl-es/track/709CndJJB3GTUhQD0LLFse
+291;Rosa de Alejandría;Manolo Garcia;2004;https://open.spotify.com/intl-es/track/5GwSE4jH72NzlLRAWuwRqL
+292;No Voy a Cambiar;Malú;2006;https://open.spotify.com/intl-es/track/5RJRcCng40cAECYiXkOM6Z
+293;Vente Pa' Ca (feat. Maluma);Ricky Martin;2016;https://open.spotify.com/intl-es/track/7DM4BPaS7uofFul3ywMe46
+294;La Mentira (feat. Joaquín Sabina);Dani Martín;2020;https://open.spotify.com/intl-es/track/6b230QKlluW1wgkexEAjBa
+295;Es por Ti;Cómplices;1990;https://open.spotify.com/intl-es/track/2vcj4d4TpiyWqMbdRu4j6u
+296;Fuego;Estopa;2019;https://open.spotify.com/intl-es/track/6ye25NazQfUWrCTdCH3cXX
+297;No Dudaria;Antonio Flores;1980;https://open.spotify.com/intl-es/track/6djqlcjQPGhxuZ6HERSgWw
+298;Cai;Niña Pastori;2000;https://open.spotify.com/intl-es/track/6XZFGX36EFljIGj7p2Ht6l
+299;El Universo Sobre Mi - En Directo;Amaral;2017;https://open.spotify.com/intl-es/track/5NO0xkDUbMDeBUKr4CVJOX
+300;Ahora Tu;Malú;2010;https://open.spotify.com/intl-es/track/7z9IbN0D245JG5iokzkbDk
+301;La Puerta Violeta;Rozalén;2017;https://open.spotify.com/intl-es/track/42ZASSKlh3UtYCgwZb8lBS
+302;Fan de Ti;Sidecars;2010;https://open.spotify.com/intl-es/track/72wP8pJImrhxGA6f6F91gk
+303;Buscando El Sol;David Otero;2011;https://open.spotify.com/intl-es/track/3eoZdfIaTawNFYSBuLdlTG
+304;Paraíso;Dvicio;2014;https://open.spotify.com/intl-es/track/6y63IkVtjr2RnPVvK8BqEj
+305;Ojos Así;Shakira;1998;https://open.spotify.com/intl-es/track/4EDfdYJ7mqXRoWAqzF1PVO
+306;Puedes Contar Conmigo;La Oreja de Van Gogh;2002;https://open.spotify.com/intl-es/track/1hbWtHgRDG25DkmxE4I28V
+307;Contigo;El Canto Del Loco;2002;https://open.spotify.com/intl-es/track/5DCBEzZM5rSVWZBYWKknv4
+308;Muñeca de Trapo;La Oreja de Van Gogh;2007;https://open.spotify.com/intl-es/track/1YtZ6sHC4TalQbK4c37bqJ
+309;Insoportable;El Canto Del Loco;2005;https://open.spotify.com/intl-es/track/6FstWkgRdHagqJ6qjDbiK0
+310;Todo;Pereza;2005;https://open.spotify.com/intl-es/track/09QG9D1BI4TRvGq64NghRg
+311;MALAMENTE - Cap.1: Augurio;ROSALÍA;2018;https://open.spotify.com/intl-es/track/5zOAudPQIs5U8zP6LQGHmH
+312;A Prueba de Ti;Malú;2013;https://open.spotify.com/intl-es/track/2fF6Kma5cZBvDCyEKq30tb
+313;Los Charcos;Dani Martín;2016;https://open.spotify.com/intl-es/track/6XPOXobXwTz9Bh8p9u0QXW
+314;Hijos de un Mismo Dios;Macaco;2015;https://open.spotify.com/intl-es/track/5y4g8rBf30P8Tc0pibVUnX
+315;Peter Pan;El Canto Del Loco;2008;https://open.spotify.com/intl-es/track/1gkBsKxTpVHIn1nLf05CUo
+316;Eres para Mí;Julieta Venegas;2006;https://open.spotify.com/intl-es/track/4m3vLNZkFAjm30XxPXf7E3
+317;Y en Tu Ventana;Andy & Lucas;2003;https://open.spotify.com/intl-es/track/1aTQjtfI3EapNrDGu4iu5T
+318;¡Que Bonito!;Rosario;1996;https://open.spotify.com/intl-es/track/1MO5KuLnSaY1dlkWGDjHkT
+319;Una Foto en Blanco y Negro;El Canto Del Loco;2003;https://open.spotify.com/intl-es/track/1LuW4h5s9ZumBbMh7qhDDj
+320;Justo Ahora;Dvicio;2014;https://open.spotify.com/intl-es/track/3lgiC0OSZbPcyeO0HdTwz2
+321;Vestido Azul;La Oreja de Van Gogh;2003;https://open.spotify.com/intl-es/track/0GyksGKFXH50Lx737ahxIq
+322;La Llamada;Leiva;2017;https://open.spotify.com/intl-es/track/5ZCamgcqvkckdf2FdfYuth
+323;Darte Mi Vida;Amaia Montero;2014;https://open.spotify.com/intl-es/track/6uUg2lTd67oC4372G210uw
+324;Desátame;Monica Naranjo;1997;https://open.spotify.com/intl-es/track/2a7Ufmq13NRMavrBYUN5Ex
+325;Bailamos;Enrique Iglesias;1999;https://open.spotify.com/intl-es/track/2bbeNsFmjZqdoDhjLsKNWe
+326;Te Miro A La Cara;Daviles de Novelda;2021;https://open.spotify.com/intl-es/track/7hlPoVZ1uz7FiQagPTVbQG
+327;La Bicicleta;Carlos Vives;2016;https://open.spotify.com/intl-es/track/0Gx4VrHzS7pZOEAGrmXXBH
+328;María;Ricky Martin;1995;https://open.spotify.com/intl-es/track/0QQHPRbgLJJ5XNzJV1l9BW
+329;Celos;Andy & Lucas;2005;https://open.spotify.com/intl-es/track/0NYWDlaBz5ejU8N8g8GRFV
+330;La Bomba;Ricky Martin;1998;https://open.spotify.com/intl-es/track/2IAtnd4UG52HQP9Rwart5h
+331;Ahí Estás Tú;Chambao;2003;https://open.spotify.com/intl-es/track/3Av9wr1MflgPnAkxmOblKJ
+332;Todo No Es Casualidad - Versión Radio;India Martinez;2016;https://open.spotify.com/intl-es/track/7hJ50qGogxnnOto7kISbSQ
+333;Dímelo;Marc Anthony;1999;https://open.spotify.com/intl-es/track/0SzNJxel0NMpA4xM2COhO4
+334;Eras Tu;Merche;2005;https://open.spotify.com/intl-es/track/1ayLQcNwISmhnjLHOtUYrM
+335;Me Duele La Cara De Ser Tan Guapo;Los Inhumanos;1988;https://open.spotify.com/intl-es/track/4ClSC5MEC4gFOFrxiSIHak
+336;Nada Fue Un Error - Live In Spain / 2005;Coti;2005;https://open.spotify.com/intl-es/track/7GO6pBFbieZ30NjGIp2LP5
+337;Carolina - En directo 2000;M-Clan;2000;https://open.spotify.com/intl-es/track/4UtREbGYnd1nZLckEb5y8J
+338;Sin ti no soy nada;Amaral;2002;https://open.spotify.com/intl-es/track/3tORVJDKoY6zLrskPvouaL
+339;Son Sueños;El Canto Del Loco;1999;https://open.spotify.com/intl-es/track/0Gb0HHBCpDL3lYqaabpVu8
+340;Me Falta el Aliento;Estopa;1999;https://open.spotify.com/intl-es/track/7Lgarpf1OqaXsUTjKZ34mK
+341;Un Planeta Llamado Nosotros;Maldita Nerea;2020;https://open.spotify.com/intl-es/track/29UkXUrWYGoPsxEesEH3qZ
+342;Deseos de Cosas Imposibles;La Oreja de Van Gogh;2003;https://open.spotify.com/intl-es/track/6CIDsqMEEsBJf5Cv6RbuGw
+343;Días de verano;Amaral;2005;https://open.spotify.com/intl-es/track/3JhllUTyXy2ceSTzNSErBC
+344;Pisando fuerte;Alejandro Sanz;1991;https://open.spotify.com/intl-es/track/0VqXrOSgbq1ukARLV4uGU0
+345;Supersubmarina;Supersubmarina;2010;https://open.spotify.com/intl-es/track/7ixB1UqUrV87IvACFJayXy
+346;La Camisa Negra;Juanes;2004;https://open.spotify.com/intl-es/track/5jW8veZpHmgrGz6qcimuRu
+347;Amor de San Juan;Niña Pastori;2009;https://open.spotify.com/intl-es/track/7kbdwklxm48OgpCrC3r5ot
+348;Malo;Bebe;2004;https://open.spotify.com/intl-es/track/3JFFnk9XQ9PKNd6ueBc2RK
+349;Tu Mirada Me Hace Grande;Maldita Nerea;2009;https://open.spotify.com/intl-es/track/2O7w4VYV2eScxtZr9EZ3Iu
+350;Cuando Me Vaya (feat. Natalia Jiménez);Melocos;2007;https://open.spotify.com/intl-es/track/1mazkL64KQ7h6UZoaxxS46
+351;Marta, Sebas, Guille y los demás;Amaral;2005;https://open.spotify.com/intl-es/track/30ddpolNHwXlrS5XO8MiiO
+352;Dos Hombres Y Un Destino;Bustamante;2003;https://open.spotify.com/intl-es/track/4twmehYjvXshw3ViIypIrn
+353;Devuelveme la Vida (with Antonio Orozco);Malú;2003;https://open.spotify.com/intl-es/track/3F6QDKtaBlaEfI6TLjLIQw
+354;La Madre de Jose;El Canto Del Loco;2003;https://open.spotify.com/intl-es/track/3l8Ennt1PqShViwh0tkWuc
+355;Limón y Sal;Julieta Venegas;2006;https://open.spotify.com/intl-es/track/7dITAq1YP5e0kTcaDq4YWI
+356;Polvora;Leiva;2014;https://open.spotify.com/intl-es/track/4sVBWe5oHOvJh4k1HhD0J8
+357;Ya No Me Acuerdo;Estopa;2004;https://open.spotify.com/intl-es/track/1vHY8bEVI7Sg85xNMTDxXM
+358;Por Mi Tripa;Pereza;2007;https://open.spotify.com/intl-es/track/0DBFnvrWi43WO354NvL15A
+359;Y Sin Embargo - En Directo;Joaquín Sabina;2000;https://open.spotify.com/intl-es/track/2PwlT72CyKMN2WzgCS4yUR
+360;Color Esperanza;Diego Torres;2001;https://open.spotify.com/intl-es/track/1tOm6gSUcfZihFZCRPeWB5
+361;Partiendo la Pana;Estopa;2001;https://open.spotify.com/intl-es/track/4BtggpHp17Ak3RP0LITrue
+362;Esa Chica Es Mía;Sergio Dalma;1991;https://open.spotify.com/intl-es/track/4M9LB0kuKlZvk2yL26EGve
+363;Atrévete-Te-Te;Calle 13;2005;https://open.spotify.com/intl-es/track/6TTudSWfeluwJ0KTPaRd5g
+364;Las de la Intuición;Shakira;2005;https://open.spotify.com/intl-es/track/3uU6dqBjVKRTPis0RrTaT4
+365;La Suerte de Mi Vida;El Canto Del Loco;2008;https://open.spotify.com/intl-es/track/3t7xKj2YWeiFm92ApJ2FAt
+366;Me Dediqué a Perderte;Alejandro Fernández;2004;https://open.spotify.com/intl-es/track/3YR2oJx3iA5ThPlepS4LzY
+367;Corazon Espinado (feat. Mana);Santana;1999;https://open.spotify.com/intl-es/track/2WoqgtWEBbbBKMDN6Becs7
+368;Y Cómo Es El;Marc Anthony;2010;https://open.spotify.com/intl-es/track/3h8KGJn9UFX2cfjN78iMVF
+369;Livin' la Vida Loca - Spanish Version;Ricky Martin;2018;https://open.spotify.com/intl-es/track/05A6IM6n3liq04Ql03qfmz
+370;Vente Pa' Ca (feat. Wendy);Ricky Martin;2016;https://open.spotify.com/intl-es/track/0XyMfNTiNv2w73L7USXzv3
+371;DUELE EL CORAZON (feat. Arcángel & Javada) - Remix;Enrique Iglesias;2016;https://open.spotify.com/intl-es/track/7CnDrJ3mlKBEcAUVAlzUQE
+372;Algo Contigo;Gente De Zona;2016;https://open.spotify.com/intl-es/track/5l390fUPNwGSi6ECobpc20
+373;Traidora (feat. Marc Anthony);Gente De Zona;2015;https://open.spotify.com/intl-es/track/7Fl3wSxRqBljyQH8dJSz9c
+374;Vente Pa' Ca (feat. Maluma) - Urban Remix;Ricky Martin;2016;https://open.spotify.com/intl-es/track/3pI6VigoXHkcL3VYLJfBhq
+375;La Isla del Amor (feat. Maki);Demarco Flamenco;2017;https://open.spotify.com/intl-es/track/0Gw9QC3RqHmTdGqHIWLHb6
+376;Vivir Mi Vida;Marc Anthony;2013;https://open.spotify.com/intl-es/track/3QHMxEOAGD51PDlbFPHLyJ
+377;EL BAÑO;Enrique Iglesias;2021;https://open.spotify.com/intl-es/track/2vvdTrdryjsl8DmPIMDWZU
+378;Colgando en tus manos (con Marta Sánchez);Carlos Baute;2017;https://open.spotify.com/intl-es/track/3UI9I3e1g1y5T3SMfdgfGO
+379;Despacito;Luis Fonsi;2017;https://open.spotify.com/intl-es/track/6habFhsOp2NvshLv26DqMb
+380;La Gozadera (feat. Marc Anthony);Gente De Zona;2015;https://open.spotify.com/intl-es/track/0OMRAvrtLWE2TvcXorRiB9
+381;A Dios Le Pido;Juanes;2002;https://open.spotify.com/intl-es/track/129lYDVKnWtlJc2PZJviuA
+382;El Perdón (with Enrique Iglesias);Nicky Jam;2015;https://open.spotify.com/intl-es/track/7qCAVkHWZkF44OzOUKf8Cr
+383;El Perdedor;Enrique Iglesias;2014;https://open.spotify.com/intl-es/track/6DwD0v5OaaYFjQ7EeOOLKW
+384;Si No Te Hubieras Ido;Marco Antonio Solís;1999;https://open.spotify.com/intl-es/track/2gn1qBdbf5OoMTwYbVKC77
+385;Si Te Pudiera Mentir;Marco Antonio Solís;1999;https://open.spotify.com/intl-es/track/0thTVPvkfFVAUYp9tQ0GAX
+386;O Me Voy O Te Vas;Marco Antonio Solís;2001;https://open.spotify.com/intl-es/track/4GBYzI0HixQ2z6gPGtNGin
+387;¿A Dónde Vamos A Parar?;Marco Antonio Solís;2010;https://open.spotify.com/intl-es/track/2OmOhZj2fxGgBpTsVc18x4
+388;Loco;Enrique Iglesias;2013;https://open.spotify.com/intl-es/track/5fLCM7IRYHKnxZslen6btz
+389;Ayer;Enrique Iglesias;2010;https://open.spotify.com/intl-es/track/1uo7VyAScB7RjscEyA7yc7
+390;Bailando - Spanish Version;Enrique Iglesias;2014;https://open.spotify.com/intl-es/track/75EveQXAVJzwuEO9gjfyGZ
+391;Inventame;Marco Antonio Solís;1999;https://open.spotify.com/intl-es/track/5RJuWtHaZqnHRCVzk1z1uS
+392;Quizás;Enrique Iglesias;2002;https://open.spotify.com/intl-es/track/1iC6iDolyChCB8wTBujAff
+393;Mentiroso;Enrique Iglesias;2002;https://open.spotify.com/intl-es/track/2pOkvQHdkBmIicUQNKMH8A
+394;Me Enamora;Juanes;2007;https://open.spotify.com/intl-es/track/5BY0p2EH4EznNZ0MFD9mjt
+395;Fruta Fresca;Carlos Vives;1999;https://open.spotify.com/intl-es/track/1lcaG7worZLgdGuniOfGje
+396;Carito;Carlos Vives;2001;https://open.spotify.com/intl-es/track/5czkBkWogUvTf2jleGyHaQ
+397;Corazón partío;Alejandro Sanz;1997;https://open.spotify.com/intl-es/track/0wQCKR9OFjYu5Kzrk7WivJ
+398;Volví a Nacer;Carlos Vives;2012;https://open.spotify.com/intl-es/track/6Al0Kpd4VrRZ0Z4kTThNPa
+399;Madre Tierra (Oye);Chayanne;2014;https://open.spotify.com/intl-es/track/2wlptOJ1g5fvLdu6ruKCKU
+400;La Cartera;Carlos Vives;1999;https://open.spotify.com/intl-es/track/0JC81ojQymAE7l1KuJpNCq
+401;Corazón En La Maleta;Luis Fonsi;2014;https://open.spotify.com/intl-es/track/3ljr9ATeLs2BY9gNp7vm62
+402;Volverte A Ver;Juanes;2004;https://open.spotify.com/intl-es/track/2ZqFfDwNjKvPu3USx3onhO
+403;Bailar Contigo;Carlos Vives;2013;https://open.spotify.com/intl-es/track/1KbX1VuFIgsRa9JjnQtRYA
+404;Tu Amor Me Hace Bien - Salsa Version;Marc Anthony;2004;https://open.spotify.com/intl-es/track/12H7K15h3aC5vRCaca65el
+405;Robarte un Beso;Carlos Vives;2017;https://open.spotify.com/intl-es/track/0JcNysfWVWaMS7R6vzGB2k
+406;Llegaste Tú;Luis Fonsi;2014;https://open.spotify.com/intl-es/track/609SDGj0txmlAXRrpwee9Y
+407;Si Me Das Tu Amor;Carlos Vives;1999;https://open.spotify.com/intl-es/track/1O34fFJyV7djSqRtOuRSVh
+408;Te regalo;Carlos Baute;2005;https://open.spotify.com/intl-es/track/0fmgOwkb9AwgzXhYVSZRDs
+409;Voy A Olvidarme De Mi;Carlos Vives;2004;https://open.spotify.com/intl-es/track/2s66rxdujHHVhNNnJfgL2D
+410;Qué Me Has Hecho (feat. Wisin);Chayanne;2017;https://open.spotify.com/intl-es/track/3nUNwSYEUv9bmUc3de0Owv
+411;SUBEME LA RADIO;Enrique Iglesias;2017;https://open.spotify.com/intl-es/track/7nKBxz47S9SD79N086fuhn
+412;"Yo Contigo, Tú Conmigo - The Gong Gong Song / El Tema De La Película ""Gru 3 Mi Villano Favorito""";Morat;2017;https://open.spotify.com/intl-es/track/12HWO1YYMV9HEqQpava5zm
+413;Cuando Me Enamoro;Enrique Iglesias;2010;https://open.spotify.com/intl-es/track/4PHX6bpHDxiR9RGzAKWcyk
+414;DUELE EL CORAZON (feat. Wisin);Enrique Iglesias;2016;https://open.spotify.com/intl-es/track/6YZdkObH88npeKrrkb8Ggf
+415;Ando buscando (feat. Piso 21);Carlos Baute;2017;https://open.spotify.com/intl-es/track/4bd65mDKdhgKngKlF4Q1pZ
+416;Te sigo pensando;Carlos Baute;2018;https://open.spotify.com/intl-es/track/5D5UwU5aFtcqxkqlCh1qKs
+417;La Bomba;Ricky Martin;1999;https://open.spotify.com/intl-es/track/2IAtnd4UG52HQP9Rwart5h
+418;María;Ricky Martin;1995;https://open.spotify.com/intl-es/track/0QQHPRbgLJJ5XNzJV1l9BW
+419;Torero;Chayanne;2002;https://open.spotify.com/intl-es/track/709CndJJB3GTUhQD0LLFse
+420;She Bangs - Spanish Version;Ricky Martin;2000;https://open.spotify.com/intl-es/track/4ti5pZ0zs1PDf1eQswskFB
+421;When I Dream at Night;Marc Anthony;2000;https://open.spotify.com/intl-es/track/1XYwlFvi9yPNruCanSJ3WP
+422;La Copa Rota;Marc Anthony;2013;https://open.spotify.com/intl-es/track/0jMU9W1kcLyxXYloMHCt2i
+423;La Última Noche;Diego Torres;1997;https://open.spotify.com/intl-es/track/0kc6sK1HPC5fqj2dQsEraZ
+424;Y, ¿Si fuera ella?;Alejandro Sanz;1999;https://open.spotify.com/intl-es/track/1DmlUpnkg4N1VWquSoffF1
+425;Abrázame Muy Fuerte;Marc Anthony;2015;https://open.spotify.com/intl-es/track/4gTxKZH5RERMhX9H8EnPAX
+426;Volver a Comenzar;Marc Anthony;2013;https://open.spotify.com/intl-es/track/4rB9Ji4iw2CKDjuaU3djPd
+427;A Quién Quiero Mentirle;Marc Anthony;2013;https://open.spotify.com/intl-es/track/6ngLct6z0pCqJcevM11HDH
+428;Private Emotion (feat. Meja);Ricky Martin;2020;https://open.spotify.com/intl-es/track/1rjHJSGgt10GAtgLrDtHTM
+429;Un Zombie A La Intemperie;Alejandro Sanz;2019;https://open.spotify.com/intl-es/track/64cQ79mesIAszcHRGS6px7
+430;Come with Me - Spanglish Version;Ricky Martin;2019;https://open.spotify.com/intl-es/track/5yjA8BscTvoceGWY2P1I8F
+431;Flor Pálida;Marc Anthony;2017;https://open.spotify.com/intl-es/track/47TyfLrGhYHHyyQWk64d0M
+432;Girasoles;Luis Fonsi;2001;https://open.spotify.com/intl-es/track/4LdtAljggvH4qzlxNxo559
+433;Apaga La Luz;Luis Fonsi;2008;https://open.spotify.com/intl-es/track/4v4pC1y5UI5oHdcluJIJs8
+434;Sola;Luis Fonsi;2010;https://open.spotify.com/intl-es/track/0BOm90PDLRJpTSqqd6z52E
+435;Despacito - Remix;Luis Fonsi;2013;https://open.spotify.com/intl-es/track/5CtI0qwDJkDQGwXD1H1cLb
+436;Bailando - Spanish Version;Enrique Iglesias;2014;https://open.spotify.com/intl-es/track/32lm3769IRfcnrQV11LO4E
+437;Escape;Enrique Iglesias;2014;https://open.spotify.com/intl-es/track/59FYUvlodY7NCZGHk7yJt1
+438;¿Dónde Están Corazón?;Enrique Iglesias;1999;https://open.spotify.com/intl-es/track/2iIZl5EIhmoxX7j3xXv467
+439;Tonight (I'm Fuckin' You);Enrique Iglesias;2002;https://open.spotify.com/intl-es/track/35Vle8dEPRW22MGQsqj0vq
+440;Cuando Me Enamoro;Enrique Iglesias;1999;https://open.spotify.com/intl-es/track/79gkHjNTSyGPXEyGkNQ8zH
+441;No Me Digas Que No;Enrique Iglesias;1995;https://open.spotify.com/intl-es/track/436EpHvGoKO3DgaSeD9lW8
+442;Ay Haiti!;Alejandro Sanz;2010;https://open.spotify.com/intl-es/track/3FifroUyur8j5mTM78WuXQ
+443;Es Por Ti;Juanes;2002;https://open.spotify.com/intl-es/track/3b1IQflSLrgzYQPGFzI9cl
+444;Mala Gente;Juanes;2002;https://open.spotify.com/intl-es/track/4QLPUyOsRUTnoW8h7HFbZX
+445;Una Flor;Juanes;2014;https://open.spotify.com/intl-es/track/18sWPBeCwhEDv87OnY43gV
+446;Me Enamoré de Ti;Chayanne;2010;https://open.spotify.com/intl-es/track/1sJFu2pvYJhtEOo9oVe1TZ
+447;No Me Doy Por Vencido;Luis Fonsi;2008;https://open.spotify.com/intl-es/track/4lerOTNr2tFWJCAmmhymhi
+448;Heroe;Enrique Iglesias;2001;https://open.spotify.com/intl-es/track/4AkrkORGjiz7c90mwxAvdW
+449;Dímelo;Enrique Iglesias;2007;https://open.spotify.com/intl-es/track/2z0z5ddJS3K7qvhp4PH0Aa
+450;Valió la Pena - Salsa Version;Marc Anthony;2004;https://open.spotify.com/intl-es/track/4pUmQqaZklcCOB3rFdWc7g
+451;Caballero;Alejandro Fernández;2019;https://open.spotify.com/intl-es/track/5DL6BDuqhnQw8HfIvUYkm9
+452;Qué Precio Tiene el Cielo - Salsa Version;Marc Anthony;2006;https://open.spotify.com/intl-es/track/2MnKininlD8bY9ggRNSJ37
+453;Como un atleta;Carlos Baute;2020;https://open.spotify.com/intl-es/track/2aVPVddEvqcN9Kodu9ugJi
+454;Desde Brasil;Café Quijano;2001;https://open.spotify.com/intl-es/track/7H0PDJwUMTdwQEBb3gXMeI
+455;La taberna del Buda;Café Quijano;2001;https://open.spotify.com/intl-es/track/40A11dg6RXzfDrwMrw5sED
+456;Lola;Café Quijano;1999;https://open.spotify.com/intl-es/track/2ECP3nWC88LaFz4oQzTo3Z
+457;Cerrando bares;Café Quijano;2003;https://open.spotify.com/intl-es/track/1MR7kwtUMcTKHwPCmRHGJn
+458;20 de Enero;La Oreja de Van Gogh;2003;https://open.spotify.com/intl-es/track/4XdePl1vOF1cYjTBYeYU9j
+459;El Ultimo Vals;La Oreja de Van Gogh;2008;https://open.spotify.com/intl-es/track/4uofaK0hnyZQFDAepvPNl6
+460;Bailar Pegados;Sergio Dalma;1991;https://open.spotify.com/intl-es/track/4QkQmdvFjEVvjc1ONi6t6N
+461;En algún lugar;Duncan Dhu;1987;https://open.spotify.com/intl-es/track/3UIENhLRdFIOuRan92cAQu
+462;Es por ti;Cómplices;1990;https://open.spotify.com/intl-es/track/4910k16mQrBB1YHwDU4XHJ
+463;Mil Calles Llevan Hacia Tí;La Guardia;1988;https://open.spotify.com/intl-es/track/6Eftf3XLMULjwKItj0sNwe
+464;Sueño su Boca - Radio Latin Dance;Raul;2000;https://open.spotify.com/intl-es/track/0otMuzDjTkpJFizLiHTAhE
+465;I Need to Know;Marc Anthony;1999;https://open.spotify.com/intl-es/track/7ffwRz8lZyDOE4Vj58Lo72
+466;Lo Que Te Di;Marc Anthony;2019;https://open.spotify.com/intl-es/track/0W8NvcMsIuygeFnfNz2KnC
+467;Parecen Viernes;Marc Anthony;2019;https://open.spotify.com/intl-es/track/0dqfl4l45vqw2TnNrnbsy0
+468;Alguien Soy Yo;Enrique Iglesias;2007;https://open.spotify.com/intl-es/track/1WmbJDE80IrPTt2zC416Fp
+469;Se Me Va La Voz;Alejandro Fernández;2009;https://open.spotify.com/intl-es/track/4QubLlsaYXoQH3CxGxuTry
+470;Con la mano levantá;Macaco;2006;https://open.spotify.com/intl-es/track/3wp08WucxF6qX77ONqflOX
+471;Reina de los angelotes;Huecco;2008;https://open.spotify.com/intl-es/track/4hMCHkjf1BkWWmWcV1mSTP
+472;Más;Ricky Martin;2011;https://open.spotify.com/intl-es/track/16IT9SCs4vy4qmCfuujX7M
+473;Tu Amor Eterno;Carlos Vives;1999;https://open.spotify.com/intl-es/track/0HB3gmAMC46FIPFoebTbk5
+474;Un Siglo Sin Ti;Chayanne;2003;https://open.spotify.com/intl-es/track/5NSJ0qoxwbO26tVvqpL4N2
+475;Despacito;Luis Fonsi;2017;https://open.spotify.com/intl-es/track/36NOKjPLZVSqVJSC7iOHIm
+476;Amor y dolor;Carlos Baute;2016;https://open.spotify.com/intl-es/track/5AQLjavd2v3c0zomyWupm7
+477;Humanos a Marte;Chayanne;2014;https://open.spotify.com/intl-es/track/7lOzUJzsELALh5FQsPKTEn
+478;La Mordidita (feat. Yotuel);Ricky Martin;2017;https://open.spotify.com/intl-es/track/00i0O74dXdaKKdCrqHnfXm
+479;"Bailamos - From ""Wild Wild West""";Enrique Iglesias;1999;https://open.spotify.com/intl-es/track/1ySwd43oWXbrytN2BD0Mhb
+480;Noche Y De Dia;Enrique Iglesias;2014;https://open.spotify.com/intl-es/track/1lD3UtE3IVQGpSw7JL11BZ
+481;Al Filo de Tu Amor;Carlos Vives;2017;https://open.spotify.com/intl-es/track/5yJCrSdwrLFzboxg0z9xMd
+482;Dejame Entrar;Carlos Vives;2001;https://open.spotify.com/intl-es/track/2jNqxXMkVVpEvjvvwvUDDD
+483;Tu Vida en la Mía;Marc Anthony;2019;https://open.spotify.com/intl-es/track/4jzPGm9YsNvFvpL5as5DVc
+484;Cambio de Piel;Marc Anthony;2013;https://open.spotify.com/intl-es/track/3AjxOdecZ2eKDL0aOtcYsJ
+485;BAGDAD - Cap.7: Liturgia;ROSALÍA;2018;https://open.spotify.com/intl-es/track/1zZ7vl1amOLI4GE5oUn0YB
+486;Tu Amor Me Hace Bien;Marc Anthony;2004;https://open.spotify.com/intl-es/track/7FGZKu8VjGu1EImHbYgsS3
+487;Mátalas;Alejandro Fernández;2003;https://open.spotify.com/intl-es/track/1TojBnaen0BzIoZfVccGng
+488;Más Que Tu Amigo;Marco Antonio Solís;2003;https://open.spotify.com/intl-es/track/1Vy7WUJubV9JEoebuJ9dfe
+489;Como Ronea (15 Aniversario);Las Chuches;2004;https://open.spotify.com/intl-es/track/2xIKTgmlZ8vZCwaWoSqwK2
+490;Baila Morena;Julio Iglesias;2000;https://open.spotify.com/intl-es/track/02U7Zu0vuIMMx4uioqjFiZ
+491;Loco;Enrique Iglesias;2013;https://open.spotify.com/intl-es/track/3dTNsND92V406EcxZo59tT
+492;¿Dónde Están Corazón?;Coti;2005;https://open.spotify.com/intl-es/track/2oYZsClkTMOsCp41t4VW71
+493;Quién te quiere como yo;Carlos Baute;2010;https://open.spotify.com/intl-es/track/6gOvclmBqBdMOSbgHe8grM
+494;Experiencia Religiosa;Enrique Iglesias;1995;https://open.spotify.com/intl-es/track/0dReCfBuhZmrqMv4WBc8od
+495;Invéntame;Enrique Iglesias;1995;https://open.spotify.com/intl-es/track/7v1fwFN26GH5Rq2VDMLDCc
+496;Barrer a Casa;Sofia Ellar;2021;https://open.spotify.com/intl-es/track/6H2P5S8Aa3an5LNuhd1DqI
+497;Lo Mejor de Mi Vida Eres Tú (feat. Natalia Jiménez);Ricky Martin;2011;https://open.spotify.com/intl-es/track/2uhaDVmfG7pT94VO5jl2r4
+498;El Ultimo Adiós - Varios Artistas Version;Ricky Martin;2001;https://open.spotify.com/intl-es/track/0tzixmHNQfE6S6SirSToxW
+499;Nada Valgo Sin Tu Amor;Juanes;2004;https://open.spotify.com/intl-es/track/6QdwofpqDvvNxX88C9A0iQ
+500;Gotas De Agua Dulce;Juanes;2007;https://open.spotify.com/intl-es/track/0Xn1VqBjoL4PAGxyatEO0Z
+501;Si Tú Te Vas;Enrique Iglesias;1995;https://open.spotify.com/intl-es/track/1s7ZnNtzQfqdZ8bpgb95WG
+502;Bailamos - Wild Wild West/Soundtrack Version;Enrique Iglesias;1995;https://open.spotify.com/intl-es/track/2oqqW9HR3UBdzwH5lKwPmA
+503;Heroe;Enrique Iglesias;1995;https://open.spotify.com/intl-es/track/0Y2YwEOLosoXG72vI1tAF7
+504;Cuando nadie me ve;Alejandro Sanz;2000;https://open.spotify.com/intl-es/track/0bfPmBR6iN2cyJQJUUQOG0
+505;No Me Doy Por Vencido;Luis Fonsi;2008;https://open.spotify.com/intl-es/track/6ztMOMCtWcKZgMTiNfP9bC
+506;Nada Es Para Siempre;Luis Fonsi;2005;https://open.spotify.com/intl-es/track/5ToI5oXnUmX5Nsmg8enL1N
+507;Aqui Estoy Yo;Luis Fonsi;2008;https://open.spotify.com/intl-es/track/5DgsWDhgoploQACccB83Z8
+508;Asignatura Pendiente;Ricky Martin;2003;https://open.spotify.com/intl-es/track/4nYE8K5ozd9HNfB2RC8o2c
+509;Tal Vez;Ricky Martin;2003;https://open.spotify.com/intl-es/track/2VspVkHity8i4H9jammhhR
+510;¿Quién Te Dijo Eso?;Luis Fonsi;2003;https://open.spotify.com/intl-es/track/159yUhKZg2ZAdt0HknTqDr
+511;La Gota Fría;Carlos Vives;1993;https://open.spotify.com/intl-es/track/5ZaTqcL7zIreaVNeVy89Iu
+512;La Tierra del Olvido (feat. Fanny Lu, Fonseca, Maluma, Andrea Echeverri, Cholo Valderrama, Coral Group & Herencia de Timbiquí) - 2015;Carlos Vives;2015;https://open.spotify.com/intl-es/track/5BIQR6Ibumf2WHKlKOJKJY
+513;La Foto de los Dos;Carlos Vives;2013;https://open.spotify.com/intl-es/track/2VL0W9x83RwQOBGbfphBqW
+514;Comeme (feat. Mario Diaz) - Directo Perito Moreno;Chambao;2009;https://open.spotify.com/intl-es/track/49Pgj28xm0VB2bDJP8sTwK
+515;Duende del Sur;Chambao;2007;https://open.spotify.com/intl-es/track/41lhBc9EfGaO3IuU8nRXez
+516;Ahí Estás Tú;Chambao;2003;https://open.spotify.com/intl-es/track/1dgFSrqG37FpmlZCmlKmP7
+517;Papeles Mojados;Chambao;2007;https://open.spotify.com/intl-es/track/0S0cwed8nKU6bKRe9zaBfS
+518;Camino Interior;Chambao;2005;https://open.spotify.com/intl-es/track/22ncPtijr5wH7yI9thKH2r
+519;Rosa Maria;Chambao;2003;https://open.spotify.com/intl-es/track/5APS9osGIdLVezCDGRObvQ
+520;No Tengas Miedo;El Canijo de Jerez;2020;https://open.spotify.com/intl-es/track/2SnqYwrwTZBdlDXlcOialK
+521;Pokito a Poko;Chambao;2003;https://open.spotify.com/intl-es/track/7LrM28pPWCpJYmbnaxHBmu
+522;Flowers;Miley Cyrus;2023;https://open.spotify.com/intl-es/track/7DSAEUvxU8FajXtRloy8M0
+523;Sin Ti;Donato Y Estefano;1995;https://open.spotify.com/intl-es/track/6u0YdyiFdnCSDNid9YfRio
+524;Por Amarte;Enrique Iglesias;1996;https://open.spotify.com/intl-es/track/2YZP4RIRbim5Aj3TNn1Q1s
+525;Quizás;Enrique Iglesias;1995;https://open.spotify.com/intl-es/track/2KcfNuKNxdOG1dWqLbaBBu
+526;ASI ES LA VIDA;Enrique Iglesias;2023;https://open.spotify.com/intl-es/track/0Me3GyNuLOa1YTIxhJPyCn
+527;No Llores Por Mi;Enrique Iglesias;1995;https://open.spotify.com/intl-es/track/39eGhKvqaMB3bP2AYME4RW
+528;Amárrame;Mon Laferte;2017;https://open.spotify.com/intl-es/track/3EK4tGkSiO5xvvB5sM4tln
+529;506;Morat;2022;https://open.spotify.com/intl-es/track/4Q1oBLFPK9R4eUHkNlihlF
+530;Yerbatero;Juanes;2010;https://open.spotify.com/intl-es/track/7jUwaYkoy1koPCjXlov21Y
+531;Lo Que Me Gusta A Mi;Juanes;2004;https://open.spotify.com/intl-es/track/722QPOI0pGJJ0Y0P6ETzgE
+532;Luna;Juanes;2002;https://open.spotify.com/intl-es/track/7sCu8xWNkxfzjoZU6aQSf1
+533;Cómo Te Echo de Menos;Maria Del Monte;2011;https://open.spotify.com/intl-es/track/0VKZN2aoPi3MOskTrgEGBs
+534;Caravana Rociera;Jose Manuel El Mani;1997;https://open.spotify.com/intl-es/track/28k9JZryrfnbP9p8fs4pgh
+535;Nuevo día;Lole Y Manuel;1975;https://open.spotify.com/intl-es/track/4bFaDjWTSbudJdO9J0fp71
+536;San Bernardino;Los Mismos;1970;https://open.spotify.com/intl-es/track/55SVZNGmaGEAOWFAEgQxt5
+537;Cara de Gitana;Daniel Magal;1977;https://open.spotify.com/intl-es/track/6HJz946SNeoMZFcUjLf3j4
+538;Infinity 2008 - Klaas Vocal Edit;Guru Josh Project;2008;https://open.spotify.com/intl-es/track/3aQz0z86zrKjd1mcZlonxE
+539;Juntos;Paloma San Basilio;2014;https://open.spotify.com/intl-es/track/33aRBtGFUITyz7fYwSRe7O
+540;No me hables - 2012 Remastered Version;Juan Pardo;2012;https://open.spotify.com/intl-es/track/5X7HaYdvc9Slc3D75kkkbl
+541;Vivimos siempre juntos;Nacho Cano;2006;https://open.spotify.com/intl-es/track/17DrqnUASfxDK5OsHed5Jp
+542;Gloria;Umberto Tozzi;2009;https://open.spotify.com/intl-es/track/4wMGxH3cJ8oDr6lG3bBrGL
+543;Sera Porque Te Amo;Ricchi E Poveri;2010;https://open.spotify.com/intl-es/track/04Xdk7F9HgyHBcAwO7KE3F
+544;Tú - Spanish Version;Umberto Tozzi;2013;https://open.spotify.com/intl-es/track/6H22ty6uyBfgyZHYgigunQ
+545;Enseñame a Cantar;Micky;2006;https://open.spotify.com/intl-es/track/0U44GbCt9x8s7KW5VEVSV6
+546;Agapimu;Ana Belén;2008;https://open.spotify.com/intl-es/track/1PseJZ9Iay7mpeonyxPBn3
+547;Una de Dos;Luis Eduardo Aute;2004;https://open.spotify.com/intl-es/track/3HuUNpNC8x8FftKavzpd23
+548;Mi Historia Entre Tus Dedos;Gianluca Grignani;2008;https://open.spotify.com/intl-es/track/6SatWYCXTZ2n7HDjWE1Voh
+549;Black betty;Ram Jam;2008;https://open.spotify.com/intl-es/track/0DzwkXawqzpt0k7jxjfdEf
+550;Ojos de hielo;Modestia Aparte;2002;https://open.spotify.com/intl-es/track/20oIUOyQioTLIs7s8fvSZP
+551;El calor del amor en un bar;Gabinete Caligari;2007;https://open.spotify.com/intl-es/track/4k12blydLbcePLvuVSrSgE
+552;Aire - Remastered;Pedro Marin;2015;https://open.spotify.com/intl-es/track/3QiRtWfWlZtLz43VbJRiEm
+553;Este amor ya no se toca;Yuri;2011;https://open.spotify.com/intl-es/track/2v6CEhx4RpMSr8EXZYro7M
+554;Aqui No Hay Playa;The Refrescos;2004;https://open.spotify.com/intl-es/track/7Ja3xxyLa5mdvAOlzBPXd2
+555;Guardalo;Los Ronaldos;2005;https://open.spotify.com/intl-es/track/7gboHLP5Cyl957IdJRxoYj
+556;Cuéntame un cuento;Celtas Cortos;1991;https://open.spotify.com/intl-es/track/7uou7DWqEQSNfxcfipxyIu
+557;El rey del Glam;Alaska Y Dinarama;1983;https://open.spotify.com/intl-es/track/5p6FNeBGfW9oPdBOH8e161
+558;Fantastico Amor;Eros Ramazzotti;1988;https://open.spotify.com/intl-es/track/4MpLgm6cxPZ1CTywsbMcoe
+559;Cuando Brille el Sol;La Guardia;1988;https://open.spotify.com/intl-es/track/3BNy8c9gYaL63nL5DKHFMU
+560;Perdóname;Camilo Sesto;1980;https://open.spotify.com/intl-es/track/3gO8mvkxIcyF9N7Vd1WM2i
+561;Te Amo;Franco De Vita;2011;https://open.spotify.com/intl-es/track/4WtO0pdIHTuVwQAVFmfIHQ
+562;Groenlandia;Zombies;2008;https://open.spotify.com/intl-es/track/4fecwWpiLBXPEt4h5g0M0n
+563;Voy a mil;Ole Ole;2001;https://open.spotify.com/intl-es/track/43jXcwbCZJqEEZRkIXT8mJ
+564;Todos los Negritos Tienen Hambre (Y Frío) - Vivo 1984;Glutamato Ye Ye;2013;https://open.spotify.com/intl-es/track/6xsvRkIKGEnMkMSKruiabe
+565;Grita;Melon Diesel;2001;https://open.spotify.com/intl-es/track/0OvZ39UskFDLzbeatm0rbh
+566;Aunque tú no lo sepas;Enrique Urquijo y Los problemas;1998;https://open.spotify.com/intl-es/track/2VybHZvsshGs8GpOaB0wS1
+567;Pero a tu lado;Los Secretos;1995;https://open.spotify.com/intl-es/track/3JOXwHPhtdRU3kYKcf64Gj
+568;Lo Mejor De Nuestra Vida - Remastered 2015;Antonio Vega;2015;https://open.spotify.com/intl-es/track/2JkWGgmz6LWJJmYT6lKjDY
+569;Por el bulevar de los sueños rotos - 2017 Remaster;Los Secretos;2017;https://open.spotify.com/intl-es/track/633Z9EGuNeZ6fXvjD1gnN6
+570;Se Dejaba Llevar Por Ti;Antonio Vega;2004;https://open.spotify.com/intl-es/track/0nLeNYebvsmLRDbFlgioSb
+571;Insurreccion (En Directo);El Último De La Fila;2015;https://open.spotify.com/intl-es/track/4SafR3a8senZ2r65hZWMKN
+572;Vamos a la playa;Righeira;2002;https://open.spotify.com/intl-es/track/27nfrOYTDXfhzDd8Qcy2aj
+573;No tengo dinero;Righeira;2002;https://open.spotify.com/intl-es/track/0TvVLMp0xt1CbXndXHilcg
+574;Eloise;Tino Casal;2003;https://open.spotify.com/intl-es/track/3sLnj87dflDnVYDmSFWNGG
+575;Ni tú ni nadie - Re-Mix;Alaska Y Dinarama;2004;https://open.spotify.com/intl-es/track/6Tv0aLcRRxgbK8ZNeSbFEw
+576;Yo soy aquél;Raphael;1967;https://open.spotify.com/intl-es/track/4H71d1kJ8DB8J4atO8fbBl
+577;Vamos Muy Bien;Obus;1984;https://open.spotify.com/intl-es/track/4YQ9WEYQG7fq0MAUYeB19Y
+578;Despellejo;Marea;1999;https://open.spotify.com/intl-es/track/48NDGoswkW8hbg1IszYp2V
+579;Sevilla Tiene un Color Especial;Los Del Rio;2001;https://open.spotify.com/intl-es/track/1x8tjll0oP07qkZWVtm8ap
+580;Te Echo de Menos;La Trampa;2001;https://open.spotify.com/intl-es/track/6XBqSb8GsrLzTLcr5kwmUN
+581;Cuando Duermes;Cómplices;1991;https://open.spotify.com/intl-es/track/5YrrTg4O6MTF2L7WlfotJn
+582;Contamíname;Pedro Guerra;1995;https://open.spotify.com/intl-es/track/7Cd7umUyXCf7xWCVzgKlnZ
+583;Delgadito;La Rabia Del Milenio;2001;https://open.spotify.com/intl-es/track/7vafezC0u0nftVpGF6jftk
+584;Quiero Verte;Los Sobraos;2001;https://open.spotify.com/intl-es/track/5f2IRWXoaygkQkTr3yyS3Y
+585;Bonito Es;Los Sencillos;2001;https://open.spotify.com/intl-es/track/3F7LwUGXeXIm7Br3QCxvd5
